@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut27.dir/Tut27.cpp.o -o Tut27 

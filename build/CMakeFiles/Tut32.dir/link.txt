@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut32.dir/Tut32.cpp.o -o Tut32 

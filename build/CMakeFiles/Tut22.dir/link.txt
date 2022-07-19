@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut22.dir/Tut22.cpp.o -o Tut22 
