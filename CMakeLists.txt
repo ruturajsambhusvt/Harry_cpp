@@ -100,3 +100,22 @@ add_executable(Tut39 Tut39.cpp)
 project(Tut40)
 add_executable(Tut40 Tut40.cpp)
 
+project(Tut41)
+add_executable(Tut41 Tut41.cpp)
+
+project(Tut42)
+add_executable(Tut42 Tut42.cpp)
+
+project(Tut43)
+add_executable(Tut43 Tut43.cpp)
+
+
+project(Tut45)
+add_executable(Tut45 Tut45.cpp)
+
+project(Tut48)
+add_executable(Tut48 Tut48.cpp)
+
+project(Tut49)
+add_executable(Tut49 Tut49.cpp)
+
