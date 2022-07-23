@@ -96,4 +96,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Tut65.dir/DependInfo.cmake"
   "CMakeFiles/Tut66.dir/DependInfo.cmake"
   "CMakeFiles/Tut67.dir/DependInfo.cmake"
+  "CMakeFiles/Tut68.dir/DependInfo.cmake"
+  "CMakeFiles/Tut71.dir/DependInfo.cmake"
+  "CMakeFiles/Tut72.dir/DependInfo.cmake"
   )

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut71.dir/Tut71.cpp.o -o Tut71 

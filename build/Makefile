@@ -805,6 +805,45 @@ Tut67/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut67.dir/build.make CMakeFiles/Tut67.dir/build
 .PHONY : Tut67/fast
 
+#=============================================================================
+# Target rules for targets named Tut68
+
+# Build rule for target.
+Tut68: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tut68
+.PHONY : Tut68
+
+# fast build rule for target.
+Tut68/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut68.dir/build.make CMakeFiles/Tut68.dir/build
+.PHONY : Tut68/fast
+
+#=============================================================================
+# Target rules for targets named Tut71
+
+# Build rule for target.
+Tut71: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tut71
+.PHONY : Tut71
+
+# fast build rule for target.
+Tut71/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut71.dir/build.make CMakeFiles/Tut71.dir/build
+.PHONY : Tut71/fast
+
+#=============================================================================
+# Target rules for targets named Tut72
+
+# Build rule for target.
+Tut72: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Tut72
+.PHONY : Tut72
+
+# fast build rule for target.
+Tut72/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut72.dir/build.make CMakeFiles/Tut72.dir/build
+.PHONY : Tut72/fast
+
 Tut1.o: Tut1.cpp.o
 .PHONY : Tut1.o
 
@@ -2053,6 +2092,30 @@ Tut67.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut67.dir/build.make CMakeFiles/Tut67.dir/Tut67.cpp.s
 .PHONY : Tut67.cpp.s
 
+Tut68.o: Tut68.cpp.o
+.PHONY : Tut68.o
+
+# target to build an object file
+Tut68.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut68.dir/build.make CMakeFiles/Tut68.dir/Tut68.cpp.o
+.PHONY : Tut68.cpp.o
+
+Tut68.i: Tut68.cpp.i
+.PHONY : Tut68.i
+
+# target to preprocess a source file
+Tut68.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut68.dir/build.make CMakeFiles/Tut68.dir/Tut68.cpp.i
+.PHONY : Tut68.cpp.i
+
+Tut68.s: Tut68.cpp.s
+.PHONY : Tut68.s
+
+# target to generate assembly for a file
+Tut68.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut68.dir/build.make CMakeFiles/Tut68.dir/Tut68.cpp.s
+.PHONY : Tut68.cpp.s
+
 Tut7.o: Tut7.cpp.o
 .PHONY : Tut7.o
 
@@ -2076,6 +2139,54 @@ Tut7.s: Tut7.cpp.s
 Tut7.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut7.dir/build.make CMakeFiles/Tut7.dir/Tut7.cpp.s
 .PHONY : Tut7.cpp.s
+
+Tut71.o: Tut71.cpp.o
+.PHONY : Tut71.o
+
+# target to build an object file
+Tut71.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut71.dir/build.make CMakeFiles/Tut71.dir/Tut71.cpp.o
+.PHONY : Tut71.cpp.o
+
+Tut71.i: Tut71.cpp.i
+.PHONY : Tut71.i
+
+# target to preprocess a source file
+Tut71.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut71.dir/build.make CMakeFiles/Tut71.dir/Tut71.cpp.i
+.PHONY : Tut71.cpp.i
+
+Tut71.s: Tut71.cpp.s
+.PHONY : Tut71.s
+
+# target to generate assembly for a file
+Tut71.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut71.dir/build.make CMakeFiles/Tut71.dir/Tut71.cpp.s
+.PHONY : Tut71.cpp.s
+
+Tut72.o: Tut72.cpp.o
+.PHONY : Tut72.o
+
+# target to build an object file
+Tut72.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut72.dir/build.make CMakeFiles/Tut72.dir/Tut72.cpp.o
+.PHONY : Tut72.cpp.o
+
+Tut72.i: Tut72.cpp.i
+.PHONY : Tut72.i
+
+# target to preprocess a source file
+Tut72.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut72.dir/build.make CMakeFiles/Tut72.dir/Tut72.cpp.i
+.PHONY : Tut72.cpp.i
+
+Tut72.s: Tut72.cpp.s
+.PHONY : Tut72.s
+
+# target to generate assembly for a file
+Tut72.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut72.dir/build.make CMakeFiles/Tut72.dir/Tut72.cpp.s
+.PHONY : Tut72.cpp.s
 
 # Help Target
 help:
@@ -2137,7 +2248,10 @@ help:
 	@echo "... Tut65"
 	@echo "... Tut66"
 	@echo "... Tut67"
+	@echo "... Tut68"
 	@echo "... Tut7"
+	@echo "... Tut71"
+	@echo "... Tut72"
 	@echo "... Tut1.o"
 	@echo "... Tut1.i"
 	@echo "... Tut1.s"
@@ -2294,9 +2408,18 @@ help:
 	@echo "... Tut67.o"
 	@echo "... Tut67.i"
 	@echo "... Tut67.s"
+	@echo "... Tut68.o"
+	@echo "... Tut68.i"
+	@echo "... Tut68.s"
 	@echo "... Tut7.o"
 	@echo "... Tut7.i"
 	@echo "... Tut7.s"
+	@echo "... Tut71.o"
+	@echo "... Tut71.i"
+	@echo "... Tut71.s"
+	@echo "... Tut72.o"
+	@echo "... Tut72.i"
+	@echo "... Tut72.s"
 .PHONY : help
 
 

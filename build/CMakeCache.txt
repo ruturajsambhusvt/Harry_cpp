@@ -145,7 +145,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Tut67
+CMAKE_PROJECT_NAME:STATIC=Tut72
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -685,6 +685,33 @@ Tut67_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Tut67_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut68_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut68_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut68_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut71_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut71_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut71_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut72_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut72_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut72_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
 
 //Value Computed by CMake
 Tut7_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build

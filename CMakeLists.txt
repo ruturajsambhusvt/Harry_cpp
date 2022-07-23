@@ -168,5 +168,15 @@ add_executable(Tut66 Tut66.cpp)
 project(Tut67)
 add_executable(Tut67 Tut67.cpp)
 
+project(Tut68)
+add_executable(Tut68 Tut68.cpp)
+
+project(Tut71)
+add_executable(Tut71 Tut71.cpp)
+
+project(Tut72)
+add_executable(Tut72 Tut72.cpp)
+
+
 
 

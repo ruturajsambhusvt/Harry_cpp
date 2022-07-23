@@ -51,5 +51,8 @@
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut65.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut66.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut67.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut68.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut71.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Tut72.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/edit_cache.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/rebuild_cache.dir
