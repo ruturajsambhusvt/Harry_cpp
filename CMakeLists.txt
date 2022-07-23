@@ -119,3 +119,54 @@ add_executable(Tut48 Tut48.cpp)
 project(Tut49)
 add_executable(Tut49 Tut49.cpp)
 
+project(Tut50)
+add_executable(Tut50 Tut50.cpp)
+
+project(Tut51)
+add_executable(Tut51 Tut51.cpp)
+
+project(Tut52)
+add_executable(Tut52 Tut52.cpp)
+
+project(Tut53)
+add_executable(Tut53 Tut53.cpp)
+
+project(Tut54)
+add_executable(Tut54 Tut54.cpp)
+
+project(Tut55)
+add_executable(Tut55 Tut55.cpp)
+
+project(Tut56)
+add_executable(Tut56 Tut56.cpp)
+
+project(Tut57)
+add_executable(Tut57 Tut57.cpp)
+
+project(Tut58)
+add_executable(Tut58 Tut58.cpp)
+
+project(Tut60)
+add_executable(Tut60 Tut60.cpp)
+
+
+project(Tut61)
+add_executable(Tut61 Tut61.cpp)
+
+project(Tut62)
+add_executable(Tut62 Tut62.cpp)
+
+project(Tut64)
+add_executable(Tut64 Tut64.cpp)
+
+project(Tut65)
+add_executable(Tut65 Tut65.cpp)
+
+project(Tut66)
+add_executable(Tut66 Tut66.cpp)
+
+project(Tut67)
+add_executable(Tut67 Tut67.cpp)
+
+
+

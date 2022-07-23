@@ -145,7 +145,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Tut37
+CMAKE_PROJECT_NAME:STATIC=Tut67
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -451,6 +451,240 @@ Tut37_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Tut37_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut38_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut38_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut38_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut38_private_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut38_private_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut38_private_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut39_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut39_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut39_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut40_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut40_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut40_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut41_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut41_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut41_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut42_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut42_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut42_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut43_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut43_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut43_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut45_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut45_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut45_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut48_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut48_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut48_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut49_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut49_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut49_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut50_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut50_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut50_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut51_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut51_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut51_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut52_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut52_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut52_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut53_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut53_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut53_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut54_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut54_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut54_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut55_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut55_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut55_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut56_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut56_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut56_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut57_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut57_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut57_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut58_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut58_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut58_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut60_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut60_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut60_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut61_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut61_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut61_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut62_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut62_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut62_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut64_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut64_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut64_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut65_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut65_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut65_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut66_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut66_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut66_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Tut67_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Tut67_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Tut67_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
 
 //Value Computed by CMake
 Tut7_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build

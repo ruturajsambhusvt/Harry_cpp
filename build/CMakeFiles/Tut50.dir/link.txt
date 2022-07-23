@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut50.dir/Tut50.cpp.o -o Tut50 

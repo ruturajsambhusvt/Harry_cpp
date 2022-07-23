@@ -23,7 +23,7 @@ class Test
     int b;
 
 public:
-    Test(int i, int j) : a(i), b(j),  //---> a will be initialized first since a i writted first in the class init
+    Test(int i, int j) : a(i), b(j)  //---> a will be initialized first since a i writted first in the class init
     {
         cout << "Constructor executed" << endl;
         cout<<"Value of a is "<<a<<endl;
