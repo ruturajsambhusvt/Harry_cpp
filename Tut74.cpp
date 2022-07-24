@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main(){
-//Function object : Function wrapped in a class so that it available like an object
+//Function object Functor : Function wrapped in a class so that it available like an object
 
     int arr[]={1,32,4,51,6,8,8,5,4};
     // sort(arr,arr+4);

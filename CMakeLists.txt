@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 3.22.1)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+# /home/trec/WorkRaj/Coding_Tutorials/
+
 project(Tut1)
 add_executable(Tut1 Tut1.cpp)
 
@@ -178,5 +180,54 @@ project(Tut72)
 add_executable(Tut72 Tut72.cpp)
 
 
+set(Eigen3_DIR /home/trec/WorkRaj/Coding_Tutorials/eigen)
+
+project (EigenTut1)
+ 
+find_package (Eigen3 3.4 REQUIRED)
+ 
+add_executable (EigenTut1 EigenTut1.cpp)
+target_link_libraries (EigenTut1 Eigen3::Eigen)
+
+project (EigenTut2)
+ 
+find_package (Eigen3 3.4 REQUIRED)
+ 
+add_executable (EigenTut2 EigenTut2.cpp)
+target_link_libraries (EigenTut2 Eigen3::Eigen)
+
+project (EigenTut3)
+ 
+find_package (Eigen3 3.4 REQUIRED)
+ 
+add_executable (EigenTut3 EigenTut3.cpp)
+target_link_libraries (EigenTut3 Eigen3::Eigen)
 
 
+
+
+project(ThreadTut1)
+add_executable(ThreadTut1 ThreadTut1.cpp)
+
+
+project(ThreadTut2)
+add_executable(ThreadTut2 ThreadTut2.cpp)
+
+
+project(ThreadTut3)
+add_executable(ThreadTut3 ThreadTut3.cpp)
+
+
+project(ThreadTut4)
+add_executable(ThreadTut4 ThreadTut4.cpp)
+
+
+project(ThreadTut5)
+add_executable(ThreadTut5 ThreadTut5.cpp)
+
+
+project(ThreadTut6)
+add_executable(ThreadTut6 ThreadTut6.cpp)
+
+project(ThreadTut7)
+add_executable(ThreadTut7 ThreadTut7.cpp)
