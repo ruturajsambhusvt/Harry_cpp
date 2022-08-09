@@ -231,3 +231,21 @@ add_executable(ThreadTut6 ThreadTut6.cpp)
 
 project(ThreadTut7)
 add_executable(ThreadTut7 ThreadTut7.cpp)
+
+project(FunctorsTut1)
+add_executable(FunctorsTut1 FunctorsTut1.cpp)
+
+project(FunctorsTut2)
+add_executable(FunctorsTut2 FunctorsTut2.cpp)
+
+project(LambdaFunTut1)
+add_executable(LambdaFunTut1 LambdaFunTut1.cpp)
+
+project(LambdaFunTut2)
+add_executable(LambdaFunTut2 LambdaFunTut2.cpp)
+
+project(Socket_Server1)
+add_executable(Socket_Server1 Socket_Server1.cpp)
+
+project(Socket_Client1)
+add_executable(Socket_Client1 Socket_Client1.cpp)

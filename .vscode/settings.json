@@ -64,6 +64,21 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "core": "cpp",
+        "pastixsupport": "cpp",
+        "sparsecholesky": "cpp",
+        "sparselu": "cpp",
+        "stddeque": "cpp",
+        "stdvector": "cpp",
+        "adolcforward": "cpp",
+        "alignedvector3": "cpp",
+        "autodiff": "cpp",
+        "iterativesolvers": "cpp",
+        "mprealsupport": "cpp",
+        "nonlinearoptimization": "cpp",
+        "openglsupport": "cpp",
+        "sparseextra": "cpp",
+        "specialfunctions": "cpp"
     }
 }

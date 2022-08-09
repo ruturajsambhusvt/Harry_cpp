@@ -58,5 +58,17 @@
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/EigenTut2.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/EigenTut3.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut2.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut3.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut4.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut5.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut6.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/ThreadTut7.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/FunctorsTut1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/FunctorsTut2.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/LambdaFunTut1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/LambdaFunTut2.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Server1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Client1.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/edit_cache.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/rebuild_cache.dir

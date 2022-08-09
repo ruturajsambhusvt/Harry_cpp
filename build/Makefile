@@ -896,6 +896,162 @@ ThreadTut1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut1.dir/build.make CMakeFiles/ThreadTut1.dir/build
 .PHONY : ThreadTut1/fast
 
+#=============================================================================
+# Target rules for targets named ThreadTut2
+
+# Build rule for target.
+ThreadTut2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut2
+.PHONY : ThreadTut2
+
+# fast build rule for target.
+ThreadTut2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/build
+.PHONY : ThreadTut2/fast
+
+#=============================================================================
+# Target rules for targets named ThreadTut3
+
+# Build rule for target.
+ThreadTut3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut3
+.PHONY : ThreadTut3
+
+# fast build rule for target.
+ThreadTut3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/build
+.PHONY : ThreadTut3/fast
+
+#=============================================================================
+# Target rules for targets named ThreadTut4
+
+# Build rule for target.
+ThreadTut4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut4
+.PHONY : ThreadTut4
+
+# fast build rule for target.
+ThreadTut4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/build
+.PHONY : ThreadTut4/fast
+
+#=============================================================================
+# Target rules for targets named ThreadTut5
+
+# Build rule for target.
+ThreadTut5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut5
+.PHONY : ThreadTut5
+
+# fast build rule for target.
+ThreadTut5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/build
+.PHONY : ThreadTut5/fast
+
+#=============================================================================
+# Target rules for targets named ThreadTut6
+
+# Build rule for target.
+ThreadTut6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut6
+.PHONY : ThreadTut6
+
+# fast build rule for target.
+ThreadTut6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/build
+.PHONY : ThreadTut6/fast
+
+#=============================================================================
+# Target rules for targets named ThreadTut7
+
+# Build rule for target.
+ThreadTut7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ThreadTut7
+.PHONY : ThreadTut7
+
+# fast build rule for target.
+ThreadTut7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/build
+.PHONY : ThreadTut7/fast
+
+#=============================================================================
+# Target rules for targets named FunctorsTut1
+
+# Build rule for target.
+FunctorsTut1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 FunctorsTut1
+.PHONY : FunctorsTut1
+
+# fast build rule for target.
+FunctorsTut1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/build
+.PHONY : FunctorsTut1/fast
+
+#=============================================================================
+# Target rules for targets named FunctorsTut2
+
+# Build rule for target.
+FunctorsTut2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 FunctorsTut2
+.PHONY : FunctorsTut2
+
+# fast build rule for target.
+FunctorsTut2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/build
+.PHONY : FunctorsTut2/fast
+
+#=============================================================================
+# Target rules for targets named LambdaFunTut1
+
+# Build rule for target.
+LambdaFunTut1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LambdaFunTut1
+.PHONY : LambdaFunTut1
+
+# fast build rule for target.
+LambdaFunTut1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/build
+.PHONY : LambdaFunTut1/fast
+
+#=============================================================================
+# Target rules for targets named LambdaFunTut2
+
+# Build rule for target.
+LambdaFunTut2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LambdaFunTut2
+.PHONY : LambdaFunTut2
+
+# fast build rule for target.
+LambdaFunTut2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/build
+.PHONY : LambdaFunTut2/fast
+
+#=============================================================================
+# Target rules for targets named Socket_Server1
+
+# Build rule for target.
+Socket_Server1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Socket_Server1
+.PHONY : Socket_Server1
+
+# fast build rule for target.
+Socket_Server1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/build
+.PHONY : Socket_Server1/fast
+
+#=============================================================================
+# Target rules for targets named Socket_Client1
+
+# Build rule for target.
+Socket_Client1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Socket_Client1
+.PHONY : Socket_Client1
+
+# fast build rule for target.
+Socket_Client1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/build
+.PHONY : Socket_Client1/fast
+
 EigenTut1.o: EigenTut1.cpp.o
 .PHONY : EigenTut1.o
 
@@ -968,6 +1124,150 @@ EigenTut3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EigenTut3.dir/build.make CMakeFiles/EigenTut3.dir/EigenTut3.cpp.s
 .PHONY : EigenTut3.cpp.s
 
+FunctorsTut1.o: FunctorsTut1.cpp.o
+.PHONY : FunctorsTut1.o
+
+# target to build an object file
+FunctorsTut1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/FunctorsTut1.cpp.o
+.PHONY : FunctorsTut1.cpp.o
+
+FunctorsTut1.i: FunctorsTut1.cpp.i
+.PHONY : FunctorsTut1.i
+
+# target to preprocess a source file
+FunctorsTut1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/FunctorsTut1.cpp.i
+.PHONY : FunctorsTut1.cpp.i
+
+FunctorsTut1.s: FunctorsTut1.cpp.s
+.PHONY : FunctorsTut1.s
+
+# target to generate assembly for a file
+FunctorsTut1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/FunctorsTut1.cpp.s
+.PHONY : FunctorsTut1.cpp.s
+
+FunctorsTut2.o: FunctorsTut2.cpp.o
+.PHONY : FunctorsTut2.o
+
+# target to build an object file
+FunctorsTut2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.o
+.PHONY : FunctorsTut2.cpp.o
+
+FunctorsTut2.i: FunctorsTut2.cpp.i
+.PHONY : FunctorsTut2.i
+
+# target to preprocess a source file
+FunctorsTut2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.i
+.PHONY : FunctorsTut2.cpp.i
+
+FunctorsTut2.s: FunctorsTut2.cpp.s
+.PHONY : FunctorsTut2.s
+
+# target to generate assembly for a file
+FunctorsTut2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.s
+.PHONY : FunctorsTut2.cpp.s
+
+LambdaFunTut1.o: LambdaFunTut1.cpp.o
+.PHONY : LambdaFunTut1.o
+
+# target to build an object file
+LambdaFunTut1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/LambdaFunTut1.cpp.o
+.PHONY : LambdaFunTut1.cpp.o
+
+LambdaFunTut1.i: LambdaFunTut1.cpp.i
+.PHONY : LambdaFunTut1.i
+
+# target to preprocess a source file
+LambdaFunTut1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/LambdaFunTut1.cpp.i
+.PHONY : LambdaFunTut1.cpp.i
+
+LambdaFunTut1.s: LambdaFunTut1.cpp.s
+.PHONY : LambdaFunTut1.s
+
+# target to generate assembly for a file
+LambdaFunTut1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/LambdaFunTut1.cpp.s
+.PHONY : LambdaFunTut1.cpp.s
+
+LambdaFunTut2.o: LambdaFunTut2.cpp.o
+.PHONY : LambdaFunTut2.o
+
+# target to build an object file
+LambdaFunTut2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o
+.PHONY : LambdaFunTut2.cpp.o
+
+LambdaFunTut2.i: LambdaFunTut2.cpp.i
+.PHONY : LambdaFunTut2.i
+
+# target to preprocess a source file
+LambdaFunTut2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.i
+.PHONY : LambdaFunTut2.cpp.i
+
+LambdaFunTut2.s: LambdaFunTut2.cpp.s
+.PHONY : LambdaFunTut2.s
+
+# target to generate assembly for a file
+LambdaFunTut2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s
+.PHONY : LambdaFunTut2.cpp.s
+
+Socket_Client1.o: Socket_Client1.cpp.o
+.PHONY : Socket_Client1.o
+
+# target to build an object file
+Socket_Client1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/Socket_Client1.cpp.o
+.PHONY : Socket_Client1.cpp.o
+
+Socket_Client1.i: Socket_Client1.cpp.i
+.PHONY : Socket_Client1.i
+
+# target to preprocess a source file
+Socket_Client1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/Socket_Client1.cpp.i
+.PHONY : Socket_Client1.cpp.i
+
+Socket_Client1.s: Socket_Client1.cpp.s
+.PHONY : Socket_Client1.s
+
+# target to generate assembly for a file
+Socket_Client1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/Socket_Client1.cpp.s
+.PHONY : Socket_Client1.cpp.s
+
+Socket_Server1.o: Socket_Server1.cpp.o
+.PHONY : Socket_Server1.o
+
+# target to build an object file
+Socket_Server1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.o
+.PHONY : Socket_Server1.cpp.o
+
+Socket_Server1.i: Socket_Server1.cpp.i
+.PHONY : Socket_Server1.i
+
+# target to preprocess a source file
+Socket_Server1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.i
+.PHONY : Socket_Server1.cpp.i
+
+Socket_Server1.s: Socket_Server1.cpp.s
+.PHONY : Socket_Server1.s
+
+# target to generate assembly for a file
+Socket_Server1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.s
+.PHONY : Socket_Server1.cpp.s
+
 ThreadTut1.o: ThreadTut1.cpp.o
 .PHONY : ThreadTut1.o
 
@@ -991,6 +1291,150 @@ ThreadTut1.s: ThreadTut1.cpp.s
 ThreadTut1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut1.dir/build.make CMakeFiles/ThreadTut1.dir/ThreadTut1.cpp.s
 .PHONY : ThreadTut1.cpp.s
+
+ThreadTut2.o: ThreadTut2.cpp.o
+.PHONY : ThreadTut2.o
+
+# target to build an object file
+ThreadTut2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.o
+.PHONY : ThreadTut2.cpp.o
+
+ThreadTut2.i: ThreadTut2.cpp.i
+.PHONY : ThreadTut2.i
+
+# target to preprocess a source file
+ThreadTut2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.i
+.PHONY : ThreadTut2.cpp.i
+
+ThreadTut2.s: ThreadTut2.cpp.s
+.PHONY : ThreadTut2.s
+
+# target to generate assembly for a file
+ThreadTut2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.s
+.PHONY : ThreadTut2.cpp.s
+
+ThreadTut3.o: ThreadTut3.cpp.o
+.PHONY : ThreadTut3.o
+
+# target to build an object file
+ThreadTut3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o
+.PHONY : ThreadTut3.cpp.o
+
+ThreadTut3.i: ThreadTut3.cpp.i
+.PHONY : ThreadTut3.i
+
+# target to preprocess a source file
+ThreadTut3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.i
+.PHONY : ThreadTut3.cpp.i
+
+ThreadTut3.s: ThreadTut3.cpp.s
+.PHONY : ThreadTut3.s
+
+# target to generate assembly for a file
+ThreadTut3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.s
+.PHONY : ThreadTut3.cpp.s
+
+ThreadTut4.o: ThreadTut4.cpp.o
+.PHONY : ThreadTut4.o
+
+# target to build an object file
+ThreadTut4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o
+.PHONY : ThreadTut4.cpp.o
+
+ThreadTut4.i: ThreadTut4.cpp.i
+.PHONY : ThreadTut4.i
+
+# target to preprocess a source file
+ThreadTut4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.i
+.PHONY : ThreadTut4.cpp.i
+
+ThreadTut4.s: ThreadTut4.cpp.s
+.PHONY : ThreadTut4.s
+
+# target to generate assembly for a file
+ThreadTut4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.s
+.PHONY : ThreadTut4.cpp.s
+
+ThreadTut5.o: ThreadTut5.cpp.o
+.PHONY : ThreadTut5.o
+
+# target to build an object file
+ThreadTut5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.o
+.PHONY : ThreadTut5.cpp.o
+
+ThreadTut5.i: ThreadTut5.cpp.i
+.PHONY : ThreadTut5.i
+
+# target to preprocess a source file
+ThreadTut5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.i
+.PHONY : ThreadTut5.cpp.i
+
+ThreadTut5.s: ThreadTut5.cpp.s
+.PHONY : ThreadTut5.s
+
+# target to generate assembly for a file
+ThreadTut5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.s
+.PHONY : ThreadTut5.cpp.s
+
+ThreadTut6.o: ThreadTut6.cpp.o
+.PHONY : ThreadTut6.o
+
+# target to build an object file
+ThreadTut6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/ThreadTut6.cpp.o
+.PHONY : ThreadTut6.cpp.o
+
+ThreadTut6.i: ThreadTut6.cpp.i
+.PHONY : ThreadTut6.i
+
+# target to preprocess a source file
+ThreadTut6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/ThreadTut6.cpp.i
+.PHONY : ThreadTut6.cpp.i
+
+ThreadTut6.s: ThreadTut6.cpp.s
+.PHONY : ThreadTut6.s
+
+# target to generate assembly for a file
+ThreadTut6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/ThreadTut6.cpp.s
+.PHONY : ThreadTut6.cpp.s
+
+ThreadTut7.o: ThreadTut7.cpp.o
+.PHONY : ThreadTut7.o
+
+# target to build an object file
+ThreadTut7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/ThreadTut7.cpp.o
+.PHONY : ThreadTut7.cpp.o
+
+ThreadTut7.i: ThreadTut7.cpp.i
+.PHONY : ThreadTut7.i
+
+# target to preprocess a source file
+ThreadTut7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/ThreadTut7.cpp.i
+.PHONY : ThreadTut7.cpp.i
+
+ThreadTut7.s: ThreadTut7.cpp.s
+.PHONY : ThreadTut7.s
+
+# target to generate assembly for a file
+ThreadTut7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/ThreadTut7.cpp.s
+.PHONY : ThreadTut7.cpp.s
 
 Tut1.o: Tut1.cpp.o
 .PHONY : Tut1.o
@@ -2347,7 +2791,19 @@ help:
 	@echo "... EigenTut1"
 	@echo "... EigenTut2"
 	@echo "... EigenTut3"
+	@echo "... FunctorsTut1"
+	@echo "... FunctorsTut2"
+	@echo "... LambdaFunTut1"
+	@echo "... LambdaFunTut2"
+	@echo "... Socket_Client1"
+	@echo "... Socket_Server1"
 	@echo "... ThreadTut1"
+	@echo "... ThreadTut2"
+	@echo "... ThreadTut3"
+	@echo "... ThreadTut4"
+	@echo "... ThreadTut5"
+	@echo "... ThreadTut6"
+	@echo "... ThreadTut7"
 	@echo "... Tut1"
 	@echo "... Tut12"
 	@echo "... Tut13"
@@ -2413,9 +2869,45 @@ help:
 	@echo "... EigenTut3.o"
 	@echo "... EigenTut3.i"
 	@echo "... EigenTut3.s"
+	@echo "... FunctorsTut1.o"
+	@echo "... FunctorsTut1.i"
+	@echo "... FunctorsTut1.s"
+	@echo "... FunctorsTut2.o"
+	@echo "... FunctorsTut2.i"
+	@echo "... FunctorsTut2.s"
+	@echo "... LambdaFunTut1.o"
+	@echo "... LambdaFunTut1.i"
+	@echo "... LambdaFunTut1.s"
+	@echo "... LambdaFunTut2.o"
+	@echo "... LambdaFunTut2.i"
+	@echo "... LambdaFunTut2.s"
+	@echo "... Socket_Client1.o"
+	@echo "... Socket_Client1.i"
+	@echo "... Socket_Client1.s"
+	@echo "... Socket_Server1.o"
+	@echo "... Socket_Server1.i"
+	@echo "... Socket_Server1.s"
 	@echo "... ThreadTut1.o"
 	@echo "... ThreadTut1.i"
 	@echo "... ThreadTut1.s"
+	@echo "... ThreadTut2.o"
+	@echo "... ThreadTut2.i"
+	@echo "... ThreadTut2.s"
+	@echo "... ThreadTut3.o"
+	@echo "... ThreadTut3.i"
+	@echo "... ThreadTut3.s"
+	@echo "... ThreadTut4.o"
+	@echo "... ThreadTut4.i"
+	@echo "... ThreadTut4.s"
+	@echo "... ThreadTut5.o"
+	@echo "... ThreadTut5.i"
+	@echo "... ThreadTut5.s"
+	@echo "... ThreadTut6.o"
+	@echo "... ThreadTut6.i"
+	@echo "... ThreadTut6.s"
+	@echo "... ThreadTut7.o"
+	@echo "... ThreadTut7.i"
+	@echo "... ThreadTut7.s"
 	@echo "... Tut1.o"
 	@echo "... Tut1.i"
 	@echo "... Tut1.s"

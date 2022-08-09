@@ -29,6 +29,8 @@ struct AddFunctor
     int m_x;
 };
 
+void DoSomething(int i, bool b, float f, double d, unsigned int u, char c);
+
 struct DoSomethingFunctor
 {
 
@@ -36,7 +38,7 @@ struct DoSomethingFunctor
                                                                            m_b(b),
                                                                            m_f(f),
                                                                            m_d(d),
-                                                                           m_u(u), {}
+                                                                           m_u(u) {}
 
     /*   int operator()(int x, int y) const
       {
@@ -45,15 +47,15 @@ struct DoSomethingFunctor
 
     int operator()(int y) const
     {
-        return m_x + y;
+        return m_i + y;
     }
 
     void operator()(char c) const{
-        DoSomething(m_i,m_b,m_f,m_d,m_u,c)
+        DoSomething(m_i,m_b,m_f,m_d,m_u,c);
         ++m_count;
     }
 
-    int m_x;
+    int m_i;
     bool m_b;
     float m_f;
     double m_d;
