@@ -118,4 +118,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/LambdaFunTut2.dir/DependInfo.cmake"
   "CMakeFiles/Socket_Server1.dir/DependInfo.cmake"
   "CMakeFiles/Socket_Client1.dir/DependInfo.cmake"
+  "CMakeFiles/NamespaceTut1.dir/DependInfo.cmake"
+  "CMakeFiles/DataTransferTut.dir/DependInfo.cmake"
+  "CMakeFiles/Socket_Server2.dir/DependInfo.cmake"
   )

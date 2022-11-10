@@ -23,7 +23,7 @@ int main()
     out << st;
 
     // Opening files using constructor and reading it
-    ifstream in("sample60b.txt");
+    ifstream in("../sample60b.txt");
     // in>>st2;
     getline(in, st2);
 
@@ -35,3 +35,6 @@ int main()
 
     return 0;
 }
+
+
+//Note : the file being read from has to be present in the build folder or the folder where the executable lies and not where the .cpp

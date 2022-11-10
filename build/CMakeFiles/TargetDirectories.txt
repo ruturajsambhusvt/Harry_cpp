@@ -70,5 +70,8 @@
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/LambdaFunTut2.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Server1.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Client1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/NamespaceTut1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/DataTransferTut.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Server2.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/edit_cache.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o -o Socket_Server2 

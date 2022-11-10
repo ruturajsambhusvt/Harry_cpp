@@ -249,3 +249,14 @@ add_executable(Socket_Server1 Socket_Server1.cpp)
 
 project(Socket_Client1)
 add_executable(Socket_Client1 Socket_Client1.cpp)
+
+project(NamespaceTut1)
+add_executable(NamespaceTut1 NamespaceTut1.cpp)
+
+
+project(DataTransferTut)
+add_executable(DataTransferTut DataTransferTut.cpp)
+
+project(Socket_Server2)
+add_executable(Socket_Server2 Socket_Server2.cpp)
+

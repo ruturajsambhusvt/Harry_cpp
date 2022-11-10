@@ -79,6 +79,13 @@
         "nonlinearoptimization": "cpp",
         "openglsupport": "cpp",
         "sparseextra": "cpp",
-        "specialfunctions": "cpp"
+        "specialfunctions": "cpp",
+        "strstream": "cpp",
+        "bitset": "cpp",
+        "optional": "cpp",
+        "shared_mutex": "cpp",
+        "cfenv": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp"
     }
 }

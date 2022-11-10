@@ -1052,6 +1052,69 @@ Socket_Client1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/build
 .PHONY : Socket_Client1/fast
 
+#=============================================================================
+# Target rules for targets named NamespaceTut1
+
+# Build rule for target.
+NamespaceTut1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 NamespaceTut1
+.PHONY : NamespaceTut1
+
+# fast build rule for target.
+NamespaceTut1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/build
+.PHONY : NamespaceTut1/fast
+
+#=============================================================================
+# Target rules for targets named DataTransferTut
+
+# Build rule for target.
+DataTransferTut: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 DataTransferTut
+.PHONY : DataTransferTut
+
+# fast build rule for target.
+DataTransferTut/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataTransferTut.dir/build.make CMakeFiles/DataTransferTut.dir/build
+.PHONY : DataTransferTut/fast
+
+#=============================================================================
+# Target rules for targets named Socket_Server2
+
+# Build rule for target.
+Socket_Server2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Socket_Server2
+.PHONY : Socket_Server2
+
+# fast build rule for target.
+Socket_Server2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/build
+.PHONY : Socket_Server2/fast
+
+DataTransferTut.o: DataTransferTut.cpp.o
+.PHONY : DataTransferTut.o
+
+# target to build an object file
+DataTransferTut.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataTransferTut.dir/build.make CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o
+.PHONY : DataTransferTut.cpp.o
+
+DataTransferTut.i: DataTransferTut.cpp.i
+.PHONY : DataTransferTut.i
+
+# target to preprocess a source file
+DataTransferTut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataTransferTut.dir/build.make CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i
+.PHONY : DataTransferTut.cpp.i
+
+DataTransferTut.s: DataTransferTut.cpp.s
+.PHONY : DataTransferTut.s
+
+# target to generate assembly for a file
+DataTransferTut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataTransferTut.dir/build.make CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s
+.PHONY : DataTransferTut.cpp.s
+
 EigenTut1.o: EigenTut1.cpp.o
 .PHONY : EigenTut1.o
 
@@ -1220,6 +1283,30 @@ LambdaFunTut2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s
 .PHONY : LambdaFunTut2.cpp.s
 
+NamespaceTut1.o: NamespaceTut1.cpp.o
+.PHONY : NamespaceTut1.o
+
+# target to build an object file
+NamespaceTut1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o
+.PHONY : NamespaceTut1.cpp.o
+
+NamespaceTut1.i: NamespaceTut1.cpp.i
+.PHONY : NamespaceTut1.i
+
+# target to preprocess a source file
+NamespaceTut1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.i
+.PHONY : NamespaceTut1.cpp.i
+
+NamespaceTut1.s: NamespaceTut1.cpp.s
+.PHONY : NamespaceTut1.s
+
+# target to generate assembly for a file
+NamespaceTut1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s
+.PHONY : NamespaceTut1.cpp.s
+
 Socket_Client1.o: Socket_Client1.cpp.o
 .PHONY : Socket_Client1.o
 
@@ -1267,6 +1354,30 @@ Socket_Server1.s: Socket_Server1.cpp.s
 Socket_Server1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.s
 .PHONY : Socket_Server1.cpp.s
+
+Socket_Server2.o: Socket_Server2.cpp.o
+.PHONY : Socket_Server2.o
+
+# target to build an object file
+Socket_Server2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o
+.PHONY : Socket_Server2.cpp.o
+
+Socket_Server2.i: Socket_Server2.cpp.i
+.PHONY : Socket_Server2.i
+
+# target to preprocess a source file
+Socket_Server2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.i
+.PHONY : Socket_Server2.cpp.i
+
+Socket_Server2.s: Socket_Server2.cpp.s
+.PHONY : Socket_Server2.s
+
+# target to generate assembly for a file
+Socket_Server2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.s
+.PHONY : Socket_Server2.cpp.s
 
 ThreadTut1.o: ThreadTut1.cpp.o
 .PHONY : ThreadTut1.o
@@ -2788,6 +2899,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... DataTransferTut"
 	@echo "... EigenTut1"
 	@echo "... EigenTut2"
 	@echo "... EigenTut3"
@@ -2795,8 +2907,10 @@ help:
 	@echo "... FunctorsTut2"
 	@echo "... LambdaFunTut1"
 	@echo "... LambdaFunTut2"
+	@echo "... NamespaceTut1"
 	@echo "... Socket_Client1"
 	@echo "... Socket_Server1"
+	@echo "... Socket_Server2"
 	@echo "... ThreadTut1"
 	@echo "... ThreadTut2"
 	@echo "... ThreadTut3"
@@ -2860,6 +2974,9 @@ help:
 	@echo "... Tut7"
 	@echo "... Tut71"
 	@echo "... Tut72"
+	@echo "... DataTransferTut.o"
+	@echo "... DataTransferTut.i"
+	@echo "... DataTransferTut.s"
 	@echo "... EigenTut1.o"
 	@echo "... EigenTut1.i"
 	@echo "... EigenTut1.s"
@@ -2881,12 +2998,18 @@ help:
 	@echo "... LambdaFunTut2.o"
 	@echo "... LambdaFunTut2.i"
 	@echo "... LambdaFunTut2.s"
+	@echo "... NamespaceTut1.o"
+	@echo "... NamespaceTut1.i"
+	@echo "... NamespaceTut1.s"
 	@echo "... Socket_Client1.o"
 	@echo "... Socket_Client1.i"
 	@echo "... Socket_Client1.s"
 	@echo "... Socket_Server1.o"
 	@echo "... Socket_Server1.i"
 	@echo "... Socket_Server1.s"
+	@echo "... Socket_Server2.o"
+	@echo "... Socket_Server2.i"
+	@echo "... Socket_Server2.s"
 	@echo "... ThreadTut1.o"
 	@echo "... ThreadTut1.i"
 	@echo "... ThreadTut1.s"
