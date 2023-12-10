@@ -1091,6 +1091,71 @@ Socket_Server2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/build
 .PHONY : Socket_Server2/fast
 
+#=============================================================================
+# Target rules for targets named SmartPointers1
+
+# Build rule for target.
+SmartPointers1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SmartPointers1
+.PHONY : SmartPointers1
+
+# fast build rule for target.
+SmartPointers1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/build
+.PHONY : SmartPointers1/fast
+
+#=============================================================================
+# Target rules for targets named SmartPointers2
+
+# Build rule for target.
+SmartPointers2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SmartPointers2
+.PHONY : SmartPointers2
+
+# fast build rule for target.
+SmartPointers2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/build
+.PHONY : SmartPointers2/fast
+
+#=============================================================================
+# Target rules for targets named SmartPointers3
+
+# Build rule for target.
+SmartPointers3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SmartPointers3
+.PHONY : SmartPointers3
+
+# fast build rule for target.
+SmartPointers3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/build
+.PHONY : SmartPointers3/fast
+
+#=============================================================================
+# Target rules for targets named SmartPointers4
+
+# Build rule for target.
+SmartPointers4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SmartPointers4
+.PHONY : SmartPointers4
+
+# fast build rule for target.
+SmartPointers4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/build
+.PHONY : SmartPointers4/fast
+
+#=============================================================================
+# Target rules for targets named SmartPointers5
+
+# Build rule for target.
+SmartPointers5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SmartPointers5
+.PHONY : SmartPointers5
+
+# fast build rule for target.
+SmartPointers5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/build
+.PHONY : SmartPointers5/fast
+
 DataTransferTut.o: DataTransferTut.cpp.o
 .PHONY : DataTransferTut.o
 
@@ -1306,6 +1371,126 @@ NamespaceTut1.s: NamespaceTut1.cpp.s
 NamespaceTut1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s
 .PHONY : NamespaceTut1.cpp.s
+
+SmartPointers1.o: SmartPointers1.cpp.o
+.PHONY : SmartPointers1.o
+
+# target to build an object file
+SmartPointers1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.o
+.PHONY : SmartPointers1.cpp.o
+
+SmartPointers1.i: SmartPointers1.cpp.i
+.PHONY : SmartPointers1.i
+
+# target to preprocess a source file
+SmartPointers1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.i
+.PHONY : SmartPointers1.cpp.i
+
+SmartPointers1.s: SmartPointers1.cpp.s
+.PHONY : SmartPointers1.s
+
+# target to generate assembly for a file
+SmartPointers1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.s
+.PHONY : SmartPointers1.cpp.s
+
+SmartPointers2.o: SmartPointers2.cpp.o
+.PHONY : SmartPointers2.o
+
+# target to build an object file
+SmartPointers2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/SmartPointers2.cpp.o
+.PHONY : SmartPointers2.cpp.o
+
+SmartPointers2.i: SmartPointers2.cpp.i
+.PHONY : SmartPointers2.i
+
+# target to preprocess a source file
+SmartPointers2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/SmartPointers2.cpp.i
+.PHONY : SmartPointers2.cpp.i
+
+SmartPointers2.s: SmartPointers2.cpp.s
+.PHONY : SmartPointers2.s
+
+# target to generate assembly for a file
+SmartPointers2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/SmartPointers2.cpp.s
+.PHONY : SmartPointers2.cpp.s
+
+SmartPointers3.o: SmartPointers3.cpp.o
+.PHONY : SmartPointers3.o
+
+# target to build an object file
+SmartPointers3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/SmartPointers3.cpp.o
+.PHONY : SmartPointers3.cpp.o
+
+SmartPointers3.i: SmartPointers3.cpp.i
+.PHONY : SmartPointers3.i
+
+# target to preprocess a source file
+SmartPointers3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/SmartPointers3.cpp.i
+.PHONY : SmartPointers3.cpp.i
+
+SmartPointers3.s: SmartPointers3.cpp.s
+.PHONY : SmartPointers3.s
+
+# target to generate assembly for a file
+SmartPointers3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/SmartPointers3.cpp.s
+.PHONY : SmartPointers3.cpp.s
+
+SmartPointers4.o: SmartPointers4.cpp.o
+.PHONY : SmartPointers4.o
+
+# target to build an object file
+SmartPointers4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/SmartPointers4.cpp.o
+.PHONY : SmartPointers4.cpp.o
+
+SmartPointers4.i: SmartPointers4.cpp.i
+.PHONY : SmartPointers4.i
+
+# target to preprocess a source file
+SmartPointers4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/SmartPointers4.cpp.i
+.PHONY : SmartPointers4.cpp.i
+
+SmartPointers4.s: SmartPointers4.cpp.s
+.PHONY : SmartPointers4.s
+
+# target to generate assembly for a file
+SmartPointers4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/SmartPointers4.cpp.s
+.PHONY : SmartPointers4.cpp.s
+
+SmartPointers5.o: SmartPointers5.cpp.o
+.PHONY : SmartPointers5.o
+
+# target to build an object file
+SmartPointers5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o
+.PHONY : SmartPointers5.cpp.o
+
+SmartPointers5.i: SmartPointers5.cpp.i
+.PHONY : SmartPointers5.i
+
+# target to preprocess a source file
+SmartPointers5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.i
+.PHONY : SmartPointers5.cpp.i
+
+SmartPointers5.s: SmartPointers5.cpp.s
+.PHONY : SmartPointers5.s
+
+# target to generate assembly for a file
+SmartPointers5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.s
+.PHONY : SmartPointers5.cpp.s
 
 Socket_Client1.o: Socket_Client1.cpp.o
 .PHONY : Socket_Client1.o
@@ -2908,6 +3093,11 @@ help:
 	@echo "... LambdaFunTut1"
 	@echo "... LambdaFunTut2"
 	@echo "... NamespaceTut1"
+	@echo "... SmartPointers1"
+	@echo "... SmartPointers2"
+	@echo "... SmartPointers3"
+	@echo "... SmartPointers4"
+	@echo "... SmartPointers5"
 	@echo "... Socket_Client1"
 	@echo "... Socket_Server1"
 	@echo "... Socket_Server2"
@@ -3001,6 +3191,21 @@ help:
 	@echo "... NamespaceTut1.o"
 	@echo "... NamespaceTut1.i"
 	@echo "... NamespaceTut1.s"
+	@echo "... SmartPointers1.o"
+	@echo "... SmartPointers1.i"
+	@echo "... SmartPointers1.s"
+	@echo "... SmartPointers2.o"
+	@echo "... SmartPointers2.i"
+	@echo "... SmartPointers2.s"
+	@echo "... SmartPointers3.o"
+	@echo "... SmartPointers3.i"
+	@echo "... SmartPointers3.s"
+	@echo "... SmartPointers4.o"
+	@echo "... SmartPointers4.i"
+	@echo "... SmartPointers4.s"
+	@echo "... SmartPointers5.o"
+	@echo "... SmartPointers5.i"
+	@echo "... SmartPointers5.s"
 	@echo "... Socket_Client1.o"
 	@echo "... Socket_Client1.i"
 	@echo "... Socket_Client1.s"

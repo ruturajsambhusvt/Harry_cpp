@@ -73,5 +73,10 @@
 /home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/NamespaceTut1.dir
 /home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/DataTransferTut.dir
 /home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/Socket_Server2.dir
+/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers1.dir
+/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers2.dir
+/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers3.dir
+/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers4.dir
+/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers5.dir
 /home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/edit_cache.dir
 /home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build/CMakeFiles/rebuild_cache.dir

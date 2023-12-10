@@ -271,3 +271,19 @@ add_executable(DataTransferTut DataTransferTut.cpp)
 project(Socket_Server2)
 add_executable(Socket_Server2 Socket_Server2.cpp)
 
+project(SmartPointers1)
+add_executable(SmartPointers1 SmartPointers1.cpp)
+
+project(SmartPointers2)
+add_executable(SmartPointers2 SmartPointers2.cpp)
+
+project(SmartPointers3)
+add_executable(SmartPointers3 SmartPointers3.cpp)
+target_link_libraries (SmartPointers3 Threads::Threads)
+
+project(SmartPointers4)
+add_executable(SmartPointers4 SmartPointers4.cpp)
+
+
+project(SmartPointers5)
+add_executable(SmartPointers5 SmartPointers5.cpp)

@@ -20,13 +20,18 @@ int main(){
     arr[2] = 30;
     *(arr+1) = 40;
 
-    //delete[] arr; // frees up the memory
+    delete[] arr; // frees up the memory
 
     cout<<"The value of arr[0] is "<<arr[0]<<endl;
     cout<<"The value of arr[1] is "<<arr[1]<<endl;
     cout<<"The value of arr[2] is "<<arr[2]<<endl;
 
     //delete operator
+    delete[] arr; // frees up the memory
+
+    cout<<"The value of arr[0] is "<<arr[0]<<endl;
+    cout<<"The value of arr[1] is "<<arr[1]<<endl;
+    cout<<"The value of arr[2] is "<<arr[2]<<endl;
 
 
     return 0;

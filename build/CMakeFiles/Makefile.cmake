@@ -130,4 +130,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/NamespaceTut1.dir/DependInfo.cmake"
   "CMakeFiles/DataTransferTut.dir/DependInfo.cmake"
   "CMakeFiles/Socket_Server2.dir/DependInfo.cmake"
+  "CMakeFiles/SmartPointers1.dir/DependInfo.cmake"
+  "CMakeFiles/SmartPointers2.dir/DependInfo.cmake"
+  "CMakeFiles/SmartPointers3.dir/DependInfo.cmake"
+  "CMakeFiles/SmartPointers4.dir/DependInfo.cmake"
+  "CMakeFiles/SmartPointers5.dir/DependInfo.cmake"
   )

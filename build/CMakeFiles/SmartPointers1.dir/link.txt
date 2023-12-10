@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.o -o SmartPointers1 
