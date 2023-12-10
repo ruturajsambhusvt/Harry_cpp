@@ -180,7 +180,7 @@ project(Tut72)
 add_executable(Tut72 Tut72.cpp)
 
 
-set(Eigen3_DIR /home/trec/WorkRaj/Coding_Tutorials/eigen)
+set(Eigen3_DIR /home/ruturajsambhus/Work/Coding_Tutorials/eigen)
 
 project (EigenTut1)
  
