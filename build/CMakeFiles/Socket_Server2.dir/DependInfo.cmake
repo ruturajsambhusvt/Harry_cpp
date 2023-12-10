@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp" "CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o" "gcc" "CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o.d"
+  "/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp" "CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o" "gcc" "CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o.d"
   )
 
 # Targets to which this target links.

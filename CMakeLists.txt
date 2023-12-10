@@ -2,6 +2,10 @@ cmake_minimum_required(VERSION 3.22.1)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+project(Harry_cpp LANGUAGES C CXX)
+
+find_package(Threads REQUIRED)
+
 # /home/trec/WorkRaj/Coding_Tutorials/
 
 project(Tut1)
@@ -208,29 +212,36 @@ target_link_libraries (EigenTut3 Eigen3::Eigen)
 
 project(ThreadTut1)
 add_executable(ThreadTut1 ThreadTut1.cpp)
+target_link_libraries (ThreadTut1 Threads::Threads)
 
 
 project(ThreadTut2)
 add_executable(ThreadTut2 ThreadTut2.cpp)
+target_link_libraries (ThreadTut2 Threads::Threads)
 
 
 project(ThreadTut3)
 add_executable(ThreadTut3 ThreadTut3.cpp)
+target_link_libraries (ThreadTut3 Threads::Threads)
 
 
 project(ThreadTut4)
 add_executable(ThreadTut4 ThreadTut4.cpp)
+target_link_libraries (ThreadTut4 Threads::Threads)
 
 
 project(ThreadTut5)
 add_executable(ThreadTut5 ThreadTut5.cpp)
+target_link_libraries (ThreadTut5 Threads::Threads)
 
 
 project(ThreadTut6)
 add_executable(ThreadTut6 ThreadTut6.cpp)
+target_link_libraries (ThreadTut6 Threads::Threads)
 
 project(ThreadTut7)
 add_executable(ThreadTut7 ThreadTut7.cpp)
+target_link_libraries (ThreadTut7 Threads::Threads)
 
 project(FunctorsTut1)
 add_executable(FunctorsTut1 FunctorsTut1.cpp)

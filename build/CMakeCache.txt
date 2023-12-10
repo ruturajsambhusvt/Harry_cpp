@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=EigenTut1
+CMAKE_PROJECT_NAME:STATIC=Socket_Server2
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -212,8 +212,17 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Value Computed by CMake
+DataTransferTut_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+DataTransferTut_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+DataTransferTut_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
 //The directory containing a CMake configuration file for Eigen3.
-Eigen3_DIR:PATH=Eigen3_DIR-NOTFOUND
+Eigen3_DIR:PATH=/home/ruturajsambhus/Work/Coding_Tutorials/eigen/build
 
 //Value Computed by CMake
 EigenTut1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
@@ -223,6 +232,168 @@ EigenTut1_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 EigenTut1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+EigenTut2_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+EigenTut2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+EigenTut2_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+EigenTut3_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+EigenTut3_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+EigenTut3_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+FunctorsTut1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+FunctorsTut1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+FunctorsTut1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+FunctorsTut2_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+FunctorsTut2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+FunctorsTut2_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Harry_cpp_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Harry_cpp_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Harry_cpp_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+LambdaFunTut1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+LambdaFunTut1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+LambdaFunTut1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+LambdaFunTut2_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+LambdaFunTut2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+LambdaFunTut2_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+NamespaceTut1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+NamespaceTut1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+NamespaceTut1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Socket_Client1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Socket_Client1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Socket_Client1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Socket_Server1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Socket_Server1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Socket_Server1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Socket_Server2_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Socket_Server2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Socket_Server2_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut1_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut1_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut2_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut2_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut3_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut3_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut3_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut4_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut4_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut4_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut5_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut5_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut5_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut6_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut6_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut6_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+ThreadTut7_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+ThreadTut7_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ThreadTut7_SOURCE_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
 
 //Value Computed by CMake
 Tut12_BINARY_DIR:STATIC=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp/build
@@ -811,6 +982,12 @@ CMAKE_GENERATOR_INSTANCE:INTERNAL=
 CMAKE_GENERATOR_PLATFORM:INTERNAL=
 //Name of generator toolset.
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
+//Test CMAKE_HAVE_LIBC_PTHREAD
+CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=
+//Have library pthreads
+CMAKE_HAVE_PTHREADS_CREATE:INTERNAL=
+//Have library pthread
+CMAKE_HAVE_PTHREAD_CREATE:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=/home/ruturajsambhus/Work/Coding_Tutorials/Harry_cpp
@@ -876,6 +1053,8 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding Threads
+FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 

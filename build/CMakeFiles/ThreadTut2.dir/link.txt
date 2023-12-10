@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.o -o ThreadTut2 
+/usr/bin/c++ CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.o -o ThreadTut2  -lpthread 
