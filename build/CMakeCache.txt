@@ -144,7 +144,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Socket_Server2
+CMAKE_PROJECT_NAME:STATIC=SmartPointers5
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -291,6 +291,51 @@ NamespaceTut1_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 NamespaceTut1_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+SmartPointers1_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+SmartPointers1_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SmartPointers1_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+SmartPointers2_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+SmartPointers2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SmartPointers2_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+SmartPointers3_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+SmartPointers3_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SmartPointers3_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+SmartPointers4_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+SmartPointers4_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SmartPointers4_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+SmartPointers5_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+SmartPointers5_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SmartPointers5_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
 
 //Value Computed by CMake
 Socket_Client1_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build

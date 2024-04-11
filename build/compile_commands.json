@@ -373,5 +373,30 @@
   "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
   "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp",
   "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers2.dir/SmartPointers2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers3.dir/SmartPointers3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers3.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers3.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers4.dir/SmartPointers4.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers4.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers4.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp"
 }
 ]
