@@ -73,15 +73,15 @@ CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o: CMakeFiles/NamespaceTut1.dir/f
 CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o: ../NamespaceTut1.cpp
 CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o: CMakeFiles/NamespaceTut1.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o -MF CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o.d -o CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o -MF CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o.d -o CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp
 
 CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp > CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp > CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.i
 
 CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp -o CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp -o CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.s
 
 # Object files for target NamespaceTut1
 NamespaceTut1_OBJECTS = \

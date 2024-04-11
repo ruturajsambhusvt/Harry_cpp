@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/EigenTut1.dir/EigenTut1.cpp.o -o EigenTut1 
+/usr/bin/g++-8 -g CMakeFiles/EigenTut1.dir/EigenTut1.cpp.o -o EigenTut1 

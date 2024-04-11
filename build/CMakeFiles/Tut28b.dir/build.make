@@ -73,15 +73,15 @@ CMakeFiles/Tut28b.dir/Tut28b.cpp.o: CMakeFiles/Tut28b.dir/flags.make
 CMakeFiles/Tut28b.dir/Tut28b.cpp.o: ../Tut28b.cpp
 CMakeFiles/Tut28b.dir/Tut28b.cpp.o: CMakeFiles/Tut28b.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tut28b.dir/Tut28b.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut28b.dir/Tut28b.cpp.o -MF CMakeFiles/Tut28b.dir/Tut28b.cpp.o.d -o CMakeFiles/Tut28b.dir/Tut28b.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut28b.dir/Tut28b.cpp.o -MF CMakeFiles/Tut28b.dir/Tut28b.cpp.o.d -o CMakeFiles/Tut28b.dir/Tut28b.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp
 
 CMakeFiles/Tut28b.dir/Tut28b.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tut28b.dir/Tut28b.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp > CMakeFiles/Tut28b.dir/Tut28b.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp > CMakeFiles/Tut28b.dir/Tut28b.cpp.i
 
 CMakeFiles/Tut28b.dir/Tut28b.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tut28b.dir/Tut28b.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp -o CMakeFiles/Tut28b.dir/Tut28b.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp -o CMakeFiles/Tut28b.dir/Tut28b.cpp.s
 
 # Object files for target Tut28b
 Tut28b_OBJECTS = \

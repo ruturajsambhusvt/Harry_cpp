@@ -73,15 +73,15 @@ CMakeFiles/Tut21.dir/Tut21.cpp.o: CMakeFiles/Tut21.dir/flags.make
 CMakeFiles/Tut21.dir/Tut21.cpp.o: ../Tut21.cpp
 CMakeFiles/Tut21.dir/Tut21.cpp.o: CMakeFiles/Tut21.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tut21.dir/Tut21.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut21.dir/Tut21.cpp.o -MF CMakeFiles/Tut21.dir/Tut21.cpp.o.d -o CMakeFiles/Tut21.dir/Tut21.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut21.dir/Tut21.cpp.o -MF CMakeFiles/Tut21.dir/Tut21.cpp.o.d -o CMakeFiles/Tut21.dir/Tut21.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp
 
 CMakeFiles/Tut21.dir/Tut21.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tut21.dir/Tut21.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp > CMakeFiles/Tut21.dir/Tut21.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp > CMakeFiles/Tut21.dir/Tut21.cpp.i
 
 CMakeFiles/Tut21.dir/Tut21.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tut21.dir/Tut21.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp -o CMakeFiles/Tut21.dir/Tut21.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp -o CMakeFiles/Tut21.dir/Tut21.cpp.s
 
 # Object files for target Tut21
 Tut21_OBJECTS = \

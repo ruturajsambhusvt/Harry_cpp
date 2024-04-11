@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SocketTut1.dir/SocketTut1.cpp.o -o SocketTut1 

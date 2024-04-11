@@ -73,15 +73,15 @@ CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o: CMakeFiles/ThreadTut3.dir/flags.make
 CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o: ../ThreadTut3.cpp
 CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o: CMakeFiles/ThreadTut3.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o -MF CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o.d -o CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o -MF CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o.d -o CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp
 
 CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp > CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp > CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.i
 
 CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp -o CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp -o CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.s
 
 # Object files for target ThreadTut3
 ThreadTut3_OBJECTS = \

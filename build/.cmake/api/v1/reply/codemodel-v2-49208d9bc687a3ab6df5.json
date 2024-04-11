@@ -1,0 +1,726 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Socket_Server2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DataTransferTut::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataTransferTut-Debug-602abd75420dc1b435f2.json",
+					"name" : "DataTransferTut",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EigenTut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EigenTut1-Debug-2b030cdeabccd6cafc6d.json",
+					"name" : "EigenTut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EigenTut2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EigenTut2-Debug-0a3e44c2acaaf3dce786.json",
+					"name" : "EigenTut2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EigenTut3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EigenTut3-Debug-e9e0ca510e5989d7bfe5.json",
+					"name" : "EigenTut3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FunctorsTut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FunctorsTut1-Debug-c7945059b66df7d4ccee.json",
+					"name" : "FunctorsTut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FunctorsTut2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FunctorsTut2-Debug-95cd5c948a93bd0da885.json",
+					"name" : "FunctorsTut2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LambdaFunTut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LambdaFunTut1-Debug-87f2d26a8afdef6447c4.json",
+					"name" : "LambdaFunTut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LambdaFunTut2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LambdaFunTut2-Debug-2ba275af4f303027670c.json",
+					"name" : "LambdaFunTut2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NamespaceTut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NamespaceTut1-Debug-ef72867d8de22c229147.json",
+					"name" : "NamespaceTut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Socket_Client1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Socket_Client1-Debug-2ae0432de540d5a51a9b.json",
+					"name" : "Socket_Client1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Socket_Server1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Socket_Server1-Debug-187b7b62369d7f3e0310.json",
+					"name" : "Socket_Server1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Socket_Server2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Socket_Server2-Debug-75e60cfa1dd8da69f38b.json",
+					"name" : "Socket_Server2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut1-Debug-da567d898922bca7359e.json",
+					"name" : "ThreadTut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut2-Debug-81c404351237a16d1965.json",
+					"name" : "ThreadTut2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut3-Debug-c3e019fe0ed6a39c5c09.json",
+					"name" : "ThreadTut3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut4-Debug-657a5ed3a0132778d8b2.json",
+					"name" : "ThreadTut4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut5-Debug-018878a93e9bc069df93.json",
+					"name" : "ThreadTut5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut6-Debug-93c964cc6ee355f3087e.json",
+					"name" : "ThreadTut6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadTut7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadTut7-Debug-5e37e75d29cef0be5298.json",
+					"name" : "ThreadTut7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut1-Debug-2ec2b761740d9fe31b48.json",
+					"name" : "Tut1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut12-Debug-90bbe20cd2c6073a9dda.json",
+					"name" : "Tut12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut13-Debug-afd9c6e98982e9e4910d.json",
+					"name" : "Tut13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut14-Debug-226d3ef526c91876abdb.json",
+					"name" : "Tut14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut15-Debug-8ce5c1cda389684e32c5.json",
+					"name" : "Tut15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut17-Debug-d193fdd4d61a210bd3c3.json",
+					"name" : "Tut17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut19-Debug-ebe045386868bf98ecfe.json",
+					"name" : "Tut19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut21-Debug-51a9eab92a9dc6235706.json",
+					"name" : "Tut21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut22-Debug-d5c140e2a8e700da3c85.json",
+					"name" : "Tut22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut23-Debug-5de562760c24cfc40f71.json",
+					"name" : "Tut23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut24-Debug-151597e99bec5bb57976.json",
+					"name" : "Tut24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut25-Debug-019f7ee042ec8ed078cf.json",
+					"name" : "Tut25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut25b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut25b-Debug-b60f8ed42722d884a54b.json",
+					"name" : "Tut25b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut26-Debug-06f17fd4d976a49438f9.json",
+					"name" : "Tut26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut27-Debug-3beefbfdd89e2ad18c0d.json",
+					"name" : "Tut27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut28-Debug-28ee365364cde456bd02.json",
+					"name" : "Tut28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut28b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut28b-Debug-8f4407cbc16a7561d0cd.json",
+					"name" : "Tut28b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut29-Debug-25911515d277c2d961f5.json",
+					"name" : "Tut29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut30-Debug-9f289a838834bb0a6cbf.json",
+					"name" : "Tut30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut30b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut30b-Debug-3ec219ebf8715a667851.json",
+					"name" : "Tut30b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut31-Debug-6e28c80092cbdab857d1.json",
+					"name" : "Tut31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut32-Debug-fe38a13e7f6fa7f605ee.json",
+					"name" : "Tut32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut33::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut33-Debug-3818c9d4a43effd33fcc.json",
+					"name" : "Tut33",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut34::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut34-Debug-f801780bf728e7959915.json",
+					"name" : "Tut34",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut35::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut35-Debug-c9626f03652dcec4edd1.json",
+					"name" : "Tut35",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut37::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut37-Debug-2128dd23f8b046216e53.json",
+					"name" : "Tut37",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut38::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut38-Debug-a77b5f20b60e1e269515.json",
+					"name" : "Tut38",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut38_private::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut38_private-Debug-da3be82dfc3e0b048ef2.json",
+					"name" : "Tut38_private",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut39::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut39-Debug-caf32c9e621faac0e129.json",
+					"name" : "Tut39",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut40::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut40-Debug-14207be2e20153591036.json",
+					"name" : "Tut40",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut41-Debug-5541cca894e008d229a3.json",
+					"name" : "Tut41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut42::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut42-Debug-158eda43c7da606a7179.json",
+					"name" : "Tut42",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut43::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut43-Debug-7ab450ad56721d0810db.json",
+					"name" : "Tut43",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut45::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut45-Debug-c24b7d4b2e0a407b66a1.json",
+					"name" : "Tut45",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut48::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut48-Debug-1799e135e49b79d5305c.json",
+					"name" : "Tut48",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut49::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut49-Debug-7c74694e46b13240987e.json",
+					"name" : "Tut49",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut50::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut50-Debug-1ae02ba28f4d3035489e.json",
+					"name" : "Tut50",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut51::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut51-Debug-670d23ae12e11baf2c1c.json",
+					"name" : "Tut51",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut52::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut52-Debug-6d98fa8da6efe984e453.json",
+					"name" : "Tut52",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut53::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut53-Debug-193fa9facb557c932bad.json",
+					"name" : "Tut53",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut54::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut54-Debug-66eca8cb512e0fe2e232.json",
+					"name" : "Tut54",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut55::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut55-Debug-19a6c50475cb7dbee17a.json",
+					"name" : "Tut55",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut56::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut56-Debug-a2f131c64cbe21a13978.json",
+					"name" : "Tut56",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut57::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut57-Debug-e309b9a5f941edb343cd.json",
+					"name" : "Tut57",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut58::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut58-Debug-3f9d1ab734f9b836ff72.json",
+					"name" : "Tut58",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut60::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut60-Debug-4689ddf4caa67caed649.json",
+					"name" : "Tut60",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut61::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut61-Debug-1ac8642f48084928b74f.json",
+					"name" : "Tut61",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut62::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut62-Debug-54b09958974a7433fef2.json",
+					"name" : "Tut62",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut64::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut64-Debug-2f1b882865cb2f9970b5.json",
+					"name" : "Tut64",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut65::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut65-Debug-11af2721de8df9bf7178.json",
+					"name" : "Tut65",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut66::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut66-Debug-cf06d4058f7e8a8cb658.json",
+					"name" : "Tut66",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut67::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut67-Debug-ada0338319f138517a32.json",
+					"name" : "Tut67",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut68::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut68-Debug-2a9ba48e1ecc11ed7179.json",
+					"name" : "Tut68",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut7-Debug-f8a62cb9873dd26d4b19.json",
+					"name" : "Tut7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut71::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut71-Debug-cb91c8019346e00c6244.json",
+					"name" : "Tut71",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tut72::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tut72-Debug-b334f57e995fc775b738.json",
+					"name" : "Tut72",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+		"source" : "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut53.dir/Tut53.cpp.o -o Tut53 
+/usr/bin/g++-8 -g CMakeFiles/Tut53.dir/Tut53.cpp.o -o Tut53 

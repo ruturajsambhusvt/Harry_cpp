@@ -73,15 +73,15 @@ CMakeFiles/Tut24.dir/Tut24.cpp.o: CMakeFiles/Tut24.dir/flags.make
 CMakeFiles/Tut24.dir/Tut24.cpp.o: ../Tut24.cpp
 CMakeFiles/Tut24.dir/Tut24.cpp.o: CMakeFiles/Tut24.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tut24.dir/Tut24.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut24.dir/Tut24.cpp.o -MF CMakeFiles/Tut24.dir/Tut24.cpp.o.d -o CMakeFiles/Tut24.dir/Tut24.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut24.dir/Tut24.cpp.o -MF CMakeFiles/Tut24.dir/Tut24.cpp.o.d -o CMakeFiles/Tut24.dir/Tut24.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp
 
 CMakeFiles/Tut24.dir/Tut24.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tut24.dir/Tut24.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp > CMakeFiles/Tut24.dir/Tut24.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp > CMakeFiles/Tut24.dir/Tut24.cpp.i
 
 CMakeFiles/Tut24.dir/Tut24.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tut24.dir/Tut24.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp -o CMakeFiles/Tut24.dir/Tut24.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp -o CMakeFiles/Tut24.dir/Tut24.cpp.s
 
 # Object files for target Tut24
 Tut24_OBJECTS = \

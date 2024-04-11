@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut27.dir/Tut27.cpp.o -o Tut27 
+/usr/bin/g++-8 -g CMakeFiles/Tut27.dir/Tut27.cpp.o -o Tut27 

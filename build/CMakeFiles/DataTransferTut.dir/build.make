@@ -73,15 +73,15 @@ CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut
 CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: ../DataTransferTut.cpp
 CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -MF CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o.d -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -MF CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o.d -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp
 
 CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp > CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp > CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i
 
 CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s
 
 # Object files for target DataTransferTut
 DataTransferTut_OBJECTS = \

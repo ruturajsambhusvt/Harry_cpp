@@ -73,15 +73,15 @@ CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o: CMakeFiles/LambdaFunTut2.dir/f
 CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o: ../LambdaFunTut2.cpp
 CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o: CMakeFiles/LambdaFunTut2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o -MF CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o.d -o CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o -MF CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o.d -o CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp
 
 CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp > CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp > CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.i
 
 CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp -o CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp -o CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.s
 
 # Object files for target LambdaFunTut2
 LambdaFunTut2_OBJECTS = \

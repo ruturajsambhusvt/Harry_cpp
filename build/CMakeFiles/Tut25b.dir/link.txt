@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut25b.dir/Tut25b.cpp.o -o Tut25b 
+/usr/bin/g++-8 -g CMakeFiles/Tut25b.dir/Tut25b.cpp.o -o Tut25b 

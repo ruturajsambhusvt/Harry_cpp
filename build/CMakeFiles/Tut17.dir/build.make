@@ -73,15 +73,15 @@ CMakeFiles/Tut17.dir/Tut17.cpp.o: CMakeFiles/Tut17.dir/flags.make
 CMakeFiles/Tut17.dir/Tut17.cpp.o: ../Tut17.cpp
 CMakeFiles/Tut17.dir/Tut17.cpp.o: CMakeFiles/Tut17.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tut17.dir/Tut17.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut17.dir/Tut17.cpp.o -MF CMakeFiles/Tut17.dir/Tut17.cpp.o.d -o CMakeFiles/Tut17.dir/Tut17.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tut17.dir/Tut17.cpp.o -MF CMakeFiles/Tut17.dir/Tut17.cpp.o.d -o CMakeFiles/Tut17.dir/Tut17.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp
 
 CMakeFiles/Tut17.dir/Tut17.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tut17.dir/Tut17.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp > CMakeFiles/Tut17.dir/Tut17.cpp.i
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp > CMakeFiles/Tut17.dir/Tut17.cpp.i
 
 CMakeFiles/Tut17.dir/Tut17.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tut17.dir/Tut17.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp -o CMakeFiles/Tut17.dir/Tut17.cpp.s
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp -o CMakeFiles/Tut17.dir/Tut17.cpp.s
 
 # Object files for target Tut17
 Tut17_OBJECTS = \

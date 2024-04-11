@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.o -o Socket_Server1 
+/usr/bin/g++-8 -g CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.o -o Socket_Server1 

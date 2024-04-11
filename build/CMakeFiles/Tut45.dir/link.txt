@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut45.dir/Tut45.cpp.o -o Tut45 
+/usr/bin/g++-8 -g CMakeFiles/Tut45.dir/Tut45.cpp.o -o Tut45 

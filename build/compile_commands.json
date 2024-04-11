@@ -1,0 +1,377 @@
+[
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut1.dir/Tut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut7.dir/Tut7.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut7.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut7.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut12.dir/Tut12.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut12.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut12.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut13.dir/Tut13.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut13.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut13.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut14.dir/Tut14.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut14.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut14.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut15.dir/Tut15.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut15.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut15.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut17.dir/Tut17.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut17.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut19.dir/Tut19.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut19.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut19.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut21.dir/Tut21.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut21.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut22.dir/Tut22.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut22.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut22.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut23.dir/Tut23.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut23.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut23.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut24.dir/Tut24.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut24.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut25.dir/Tut25.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut25.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut25.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut25b.dir/Tut25b.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut25b.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut25b.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut26.dir/Tut26.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut26.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut26.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut27.dir/Tut27.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut27.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut27.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut28.dir/Tut28.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut28b.dir/Tut28b.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut28b.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut29.dir/Tut29.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut29.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut29.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut30.dir/Tut30.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut30.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut30.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut30b.dir/Tut30b.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut30b.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut30b.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut31.dir/Tut31.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut31.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut31.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut32.dir/Tut32.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut32.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut32.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut33.dir/Tut33.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut33.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut33.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut34.dir/Tut34.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut34.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut34.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut35.dir/Tut35.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut35.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut35.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut37.dir/Tut37.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut37.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut37.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut38.dir/Tut38.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut38.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut38.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut38_private.dir/Tut38_private.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut38_private.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut38_private.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut39.dir/Tut39.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut39.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut39.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut40.dir/Tut40.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut40.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut40.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut41.dir/Tut41.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut41.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut41.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut42.dir/Tut42.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut42.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut42.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut43.dir/Tut43.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut43.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut43.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut45.dir/Tut45.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut45.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut45.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut48.dir/Tut48.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut48.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut48.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut49.dir/Tut49.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut49.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut49.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut50.dir/Tut50.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut50.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut50.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut51.dir/Tut51.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut51.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut51.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut52.dir/Tut52.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut52.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut52.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut53.dir/Tut53.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut53.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut53.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut54.dir/Tut54.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut54.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut54.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut55.dir/Tut55.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut55.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut55.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut56.dir/Tut56.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut56.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut56.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut57.dir/Tut57.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut57.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut57.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut58.dir/Tut58.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut58.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut58.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut60.dir/Tut60.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut60.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut60.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut61.dir/Tut61.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut61.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut61.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut62.dir/Tut62.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut62.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut62.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut64.dir/Tut64.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut64.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut64.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut65.dir/Tut65.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut65.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut65.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut66.dir/Tut66.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut66.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut66.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut67.dir/Tut67.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut67.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut67.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut68.dir/Tut68.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut68.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut68.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut71.dir/Tut71.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut71.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut71.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Tut72.dir/Tut72.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut72.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Tut72.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -isystem /usr/local/include/eigen3 -g -std=gnu++17 -o CMakeFiles/EigenTut1.dir/EigenTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -isystem /usr/local/include/eigen3 -g -std=gnu++17 -o CMakeFiles/EigenTut2.dir/EigenTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -isystem /usr/local/include/eigen3 -g -std=gnu++17 -o CMakeFiles/EigenTut3.dir/EigenTut3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut3.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/EigenTut3.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut1.dir/ThreadTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut2.dir/ThreadTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut3.dir/ThreadTut3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut3.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut4.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut4.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut5.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut5.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut6.dir/ThreadTut6.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut6.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut6.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/ThreadTut7.dir/ThreadTut7.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut7.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut7.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/FunctorsTut1.dir/FunctorsTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FunctorsTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FunctorsTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FunctorsTut2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FunctorsTut2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/LambdaFunTut1.dir/LambdaFunTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/LambdaFunTut2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Socket_Server1.dir/Socket_Server1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Socket_Client1.dir/Socket_Client1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Client1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Client1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/NamespaceTut1.dir/NamespaceTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/NamespaceTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/Socket_Server2.dir/Socket_Server2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/Socket_Server2.cpp"
+}
+]

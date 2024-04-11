@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut13.dir/Tut13.cpp.o -o Tut13 
+/usr/bin/g++-8 -g CMakeFiles/Tut13.dir/Tut13.cpp.o -o Tut13 

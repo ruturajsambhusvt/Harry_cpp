@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut58.dir/Tut58.cpp.o -o Tut58 
+/usr/bin/g++-8 -g CMakeFiles/Tut58.dir/Tut58.cpp.o -o Tut58 

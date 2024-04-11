@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Tut19.dir/Tut19.cpp.o -o Tut19 
+/usr/bin/g++-8 -g CMakeFiles/Tut19.dir/Tut19.cpp.o -o Tut19 

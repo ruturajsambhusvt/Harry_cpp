@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.o -o ThreadTut5 
+/usr/bin/g++-8 -g CMakeFiles/ThreadTut5.dir/ThreadTut5.cpp.o -o ThreadTut5 
