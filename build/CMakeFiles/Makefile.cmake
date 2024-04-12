@@ -126,4 +126,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/SmartPointers3.dir/DependInfo.cmake"
   "CMakeFiles/SmartPointers4.dir/DependInfo.cmake"
   "CMakeFiles/SmartPointers5.dir/DependInfo.cmake"
+  "CMakeFiles/GDBTut1.dir/DependInfo.cmake"
+  "CMakeFiles/GDBTut2.dir/DependInfo.cmake"
+  "CMakeFiles/GDBTut3.dir/DependInfo.cmake"
+  "CMakeFiles/GDBTut4.dir/DependInfo.cmake"
   )

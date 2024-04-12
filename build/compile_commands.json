@@ -398,5 +398,25 @@
   "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
   "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp",
   "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/GDBTut1.dir/GDBTut1.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut1.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut1.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/GDBTut2.dir/GDBTut2.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut2.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut2.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/GDBTut3.dir/GDBTut3.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut3.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut3.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8   -g -std=gnu++17 -o CMakeFiles/GDBTut4.dir/GDBTut4.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut4.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut4.cpp"
 }
 ]

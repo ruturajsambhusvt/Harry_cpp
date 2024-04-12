@@ -78,5 +78,9 @@
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers3.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers4.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/SmartPointers5.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/GDBTut1.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/GDBTut2.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/GDBTut3.dir
+/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/GDBTut4.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/edit_cache.dir
 /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles/rebuild_cache.dir

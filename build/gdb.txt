@@ -1,0 +1,36 @@
+No stack.
+warning: Source file is more recent than executable.
+2	
+3	// Summary: Using GDB to set variables in the constructor of a class
+4	
+5	#include <iostream>
+6	
+7	class Node{
+8	    public:
+9	    int data;
+10	    Node* next;
+11	    // public:
+The program is not being run.
+Starting program: /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/GDBTut4 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, main () at /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut4.cpp:16
+16	{
+11	    // public:
+12	    Node(int x, Node* next_loc= nullptr):data{x},next{next_loc}{}; //constructor of class Node is initializing the object of class Node
+13	};
+14	
+15	int main()
+16	{
+17	    Node a(1,NULL);
+18	    Node b(2, NULL);
+19	    std::cout << "a.data: " << a.data <<"a.next: "<<a.next<< std::endl;
+20	    std::cout << "b.data: " << b.data <<"b.next: "<<b.next<< std::endl;
+#0  main () at /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/GDBTut4.cpp:16
+16	{
+17	    Node a(1,NULL);
+18	    Node b(2, NULL);
+19	    std::cout << "a.data: " << a.data <<"a.next: "<<a.next<< std::endl;
+20	    std::cout << "b.data: " << b.data <<"b.next: "<<b.next<< std::endl;
+21	    return 0; 

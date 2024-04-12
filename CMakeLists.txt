@@ -274,3 +274,15 @@ add_executable(SmartPointers4 SmartPointers4.cpp)
 
 project(SmartPointers5)
 add_executable(SmartPointers5 SmartPointers5.cpp)
+
+project(GDBTut1)
+add_executable(GDBTut1 GDBTut1.cpp)
+
+project(GDBTut2)
+add_executable(GDBTut2 GDBTut2.cpp)
+
+project(GDBTut3)
+add_executable(GDBTut3 GDBTut3.cpp)
+
+project(GDBTut4)
+add_executable(GDBTut4 GDBTut4.cpp)
