@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut4.cpp" "CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o" "gcc" "CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o.d"
+  "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/ThreadTut/ThreadTut4.cpp" "CMakeFiles/ThreadTut4.dir/ThreadTut/ThreadTut4.cpp.o" "gcc" "CMakeFiles/ThreadTut4.dir/ThreadTut/ThreadTut4.cpp.o.d"
   )
 
 # Targets to which this target links.

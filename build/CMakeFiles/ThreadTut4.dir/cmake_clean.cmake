@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o"
-  "CMakeFiles/ThreadTut4.dir/ThreadTut4.cpp.o.d"
-  "ThreadTut4"
-  "ThreadTut4.pdb"
+  "CMakeFiles/ThreadTut4.dir/ThreadTut/ThreadTut4.cpp.o"
+  "CMakeFiles/ThreadTut4.dir/ThreadTut/ThreadTut4.cpp.o.d"
+  "ThreadTut/ThreadTut4"
+  "ThreadTut/ThreadTut4.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

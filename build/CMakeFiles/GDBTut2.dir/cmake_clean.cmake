@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GDBTut2.dir/GDBTut2.cpp.o"
-  "CMakeFiles/GDBTut2.dir/GDBTut2.cpp.o.d"
-  "GDBTut2"
-  "GDBTut2.pdb"
+  "CMakeFiles/GDBTut2.dir/GDBTut/GDBTut2.cpp.o"
+  "CMakeFiles/GDBTut2.dir/GDBTut/GDBTut2.cpp.o.d"
+  "GDBTut/GDBTut2"
+  "GDBTut/GDBTut2.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

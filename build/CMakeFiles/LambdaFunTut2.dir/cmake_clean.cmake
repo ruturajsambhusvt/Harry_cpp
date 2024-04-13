@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o"
-  "CMakeFiles/LambdaFunTut2.dir/LambdaFunTut2.cpp.o.d"
-  "LambdaFunTut2"
-  "LambdaFunTut2.pdb"
+  "CMakeFiles/LambdaFunTut2.dir/LambdaFunTut/LambdaFunTut2.cpp.o"
+  "CMakeFiles/LambdaFunTut2.dir/LambdaFunTut/LambdaFunTut2.cpp.o.d"
+  "LambdaFunTut/LambdaFunTut2"
+  "LambdaFunTut/LambdaFunTut2.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

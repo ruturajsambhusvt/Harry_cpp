@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.o"
-  "CMakeFiles/FunctorsTut2.dir/FunctorsTut2.cpp.o.d"
-  "FunctorsTut2"
-  "FunctorsTut2.pdb"
+  "CMakeFiles/FunctorsTut2.dir/FunctorsTut/FunctorsTut2.cpp.o"
+  "CMakeFiles/FunctorsTut2.dir/FunctorsTut/FunctorsTut2.cpp.o.d"
+  "FunctorsTut/FunctorsTut2"
+  "FunctorsTut/FunctorsTut2.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

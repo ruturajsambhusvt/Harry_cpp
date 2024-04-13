@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o"
-  "CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o.d"
-  "DataTransferTut"
-  "DataTransferTut.pdb"
+  "CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o"
+  "CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o.d"
+  "MiscellaneousTut/DataTransferTut"
+  "MiscellaneousTut/DataTransferTut.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

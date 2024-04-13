@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Tut55.dir/Tut55.cpp.o"
-  "CMakeFiles/Tut55.dir/Tut55.cpp.o.d"
-  "Tut55"
-  "Tut55.pdb"
+  "CMakeFiles/Tut55.dir/HarryYoutubeTut/Tut55.cpp.o"
+  "CMakeFiles/Tut55.dir/HarryYoutubeTut/Tut55.cpp.o.d"
+  "HarryYoutubeTut/Tut55"
+  "HarryYoutubeTut/Tut55.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

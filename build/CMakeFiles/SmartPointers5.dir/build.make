@@ -69,35 +69,35 @@ include CMakeFiles/SmartPointers5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SmartPointers5.dir/flags.make
 
-CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o: CMakeFiles/SmartPointers5.dir/flags.make
-CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o: ../SmartPointers5.cpp
-CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o: CMakeFiles/SmartPointers5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o -MF CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o.d -o CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp
+CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o: CMakeFiles/SmartPointers5.dir/flags.make
+CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o: ../SmartPointersTut/SmartPointers5.cpp
+CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o: CMakeFiles/SmartPointers5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o -MF CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o.d -o CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointersTut/SmartPointers5.cpp
 
-CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.i"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp > CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.i
+CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.i"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointersTut/SmartPointers5.cpp > CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.i
 
-CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.s"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers5.cpp -o CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.s
+CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.s"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointersTut/SmartPointers5.cpp -o CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.s
 
 # Object files for target SmartPointers5
 SmartPointers5_OBJECTS = \
-"CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o"
+"CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o"
 
 # External object files for target SmartPointers5
 SmartPointers5_EXTERNAL_OBJECTS =
 
-SmartPointers5: CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o
-SmartPointers5: CMakeFiles/SmartPointers5.dir/build.make
-SmartPointers5: CMakeFiles/SmartPointers5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SmartPointers5"
+SmartPointersTut/SmartPointers5: CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o
+SmartPointersTut/SmartPointers5: CMakeFiles/SmartPointers5.dir/build.make
+SmartPointersTut/SmartPointers5: CMakeFiles/SmartPointers5.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SmartPointersTut/SmartPointers5"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SmartPointers5.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/SmartPointers5.dir/build: SmartPointers5
+CMakeFiles/SmartPointers5.dir/build: SmartPointersTut/SmartPointers5
 .PHONY : CMakeFiles/SmartPointers5.dir/build
 
 CMakeFiles/SmartPointers5.dir/clean:

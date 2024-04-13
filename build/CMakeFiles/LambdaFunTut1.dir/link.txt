@@ -1,1 +1,1 @@
-/usr/bin/g++-8 -g CMakeFiles/LambdaFunTut1.dir/LambdaFunTut1.cpp.o -o LambdaFunTut1 
+/usr/bin/g++-8 -g CMakeFiles/LambdaFunTut1.dir/LambdaFunTut/LambdaFunTut1.cpp.o -o LambdaFunTut/LambdaFunTut1 

@@ -1,1 +1,1 @@
-/usr/bin/g++-8 -g CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -o DataTransferTut 
+/usr/bin/g++-8 -g CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o -o MiscellaneousTut/DataTransferTut 

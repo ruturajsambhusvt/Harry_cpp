@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o"
-  "CMakeFiles/SmartPointers5.dir/SmartPointers5.cpp.o.d"
-  "SmartPointers5"
-  "SmartPointers5.pdb"
+  "CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o"
+  "CMakeFiles/SmartPointers5.dir/SmartPointersTut/SmartPointers5.cpp.o.d"
+  "SmartPointersTut/SmartPointers5"
+  "SmartPointersTut/SmartPointers5.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

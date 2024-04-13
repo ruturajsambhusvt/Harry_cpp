@@ -69,35 +69,35 @@ include CMakeFiles/DataTransferTut.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/DataTransferTut.dir/flags.make
 
-CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut.dir/flags.make
-CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: ../DataTransferTut.cpp
-CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -MF CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o.d -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp
+CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut.dir/flags.make
+CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o: ../MiscellaneousTut/DataTransferTut.cpp
+CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o: CMakeFiles/DataTransferTut.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o -MF CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o.d -o CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/MiscellaneousTut/DataTransferTut.cpp
 
-CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp > CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.i
+CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.i"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/MiscellaneousTut/DataTransferTut.cpp > CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.i
 
-CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s"
-	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/DataTransferTut.cpp -o CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.s
+CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.s"
+	/usr/bin/g++-8 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/MiscellaneousTut/DataTransferTut.cpp -o CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.s
 
 # Object files for target DataTransferTut
 DataTransferTut_OBJECTS = \
-"CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o"
+"CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o"
 
 # External object files for target DataTransferTut
 DataTransferTut_EXTERNAL_OBJECTS =
 
-DataTransferTut: CMakeFiles/DataTransferTut.dir/DataTransferTut.cpp.o
-DataTransferTut: CMakeFiles/DataTransferTut.dir/build.make
-DataTransferTut: CMakeFiles/DataTransferTut.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable DataTransferTut"
+MiscellaneousTut/DataTransferTut: CMakeFiles/DataTransferTut.dir/MiscellaneousTut/DataTransferTut.cpp.o
+MiscellaneousTut/DataTransferTut: CMakeFiles/DataTransferTut.dir/build.make
+MiscellaneousTut/DataTransferTut: CMakeFiles/DataTransferTut.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MiscellaneousTut/DataTransferTut"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DataTransferTut.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/DataTransferTut.dir/build: DataTransferTut
+CMakeFiles/DataTransferTut.dir/build: MiscellaneousTut/DataTransferTut
 .PHONY : CMakeFiles/DataTransferTut.dir/build
 
 CMakeFiles/DataTransferTut.dir/clean:

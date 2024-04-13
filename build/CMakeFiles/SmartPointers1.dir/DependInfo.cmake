@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointers1.cpp" "CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.o" "gcc" "CMakeFiles/SmartPointers1.dir/SmartPointers1.cpp.o.d"
+  "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/SmartPointersTut/SmartPointers1.cpp" "CMakeFiles/SmartPointers1.dir/SmartPointersTut/SmartPointers1.cpp.o" "gcc" "CMakeFiles/SmartPointers1.dir/SmartPointersTut/SmartPointers1.cpp.o.d"
   )
 
 # Targets to which this target links.

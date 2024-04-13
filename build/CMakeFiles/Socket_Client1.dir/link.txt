@@ -1,1 +1,1 @@
-/usr/bin/g++-8 -g CMakeFiles/Socket_Client1.dir/Socket_Client1.cpp.o -o Socket_Client1 
+/usr/bin/g++-8 -g CMakeFiles/Socket_Client1.dir/SocketTut/Socket_Client1.cpp.o -o SocketTut/Socket_Client1 

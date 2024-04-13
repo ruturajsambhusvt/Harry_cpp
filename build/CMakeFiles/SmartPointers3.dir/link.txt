@@ -1,1 +1,1 @@
-/usr/bin/g++-8 -g CMakeFiles/SmartPointers3.dir/SmartPointers3.cpp.o -o SmartPointers3 
+/usr/bin/g++-8 -g CMakeFiles/SmartPointers3.dir/SmartPointersTut/SmartPointers3.cpp.o -o SmartPointersTut/SmartPointers3 

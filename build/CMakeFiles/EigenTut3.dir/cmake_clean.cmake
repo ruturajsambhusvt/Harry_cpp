@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/EigenTut3.dir/EigenTut3.cpp.o"
-  "CMakeFiles/EigenTut3.dir/EigenTut3.cpp.o.d"
-  "EigenTut3"
-  "EigenTut3.pdb"
+  "CMakeFiles/EigenTut3.dir/EigenTut/EigenTut3.cpp.o"
+  "CMakeFiles/EigenTut3.dir/EigenTut/EigenTut3.cpp.o.d"
+  "Eigen/EigenTut3"
+  "Eigen/EigenTut3.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
