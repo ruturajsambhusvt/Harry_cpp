@@ -316,4 +316,38 @@ project(GDBTut4)
 add_executable(GDBTut4 GDBTut/GDBTut4.cpp)
 
 # Change the default directory for built executables
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/FolderStructTut/EgraspTut/Part1)
+project(EgraspTut1)
+
+add_executable(EgraspTut1 FolderStructTut/EgraspTut/Part1/main.cpp FolderStructTut/EgraspTut/Part1/calc.cpp )
+
+
+# Change the default directory for built executables
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/FolderStructTut/EgraspTut/Part2)
+project(EgraspTut2)
+# Add the library with path to cpp file
+# add_library(calc FolderStructTut/EgraspTut/Part2/mylib/calc.cpp) # Static Library
+add_library(calc SHARED FolderStructTut/EgraspTut/Part2/mylib/calc.cpp) # Shared Library
+
+add_executable(EgraspTut2 FolderStructTut/EgraspTut/Part2/main.cpp)
+target_link_libraries(EgraspTut2 calc)
+
+
+# Change the default directory for built executables
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/FolderStructTut/EgraspTut/Part3)
+project(EgraspTut3)
+# Add the library with path to cpp file
+# add_library(calc FolderStructTut/EgraspTut/Part2/mylib/calc.cpp) # Static Library
+# add_library(calc_1 SHARED FolderStructTut/EgraspTut/Part3/mylib/calc.cpp) # Shared Library
+
+include_directories(FolderStructTut/EgraspTut/Part3/mylib)
+
+add_executable(EgraspTut3 FolderStructTut/EgraspTut/Part3/main.cpp)
+target_link_libraries(EgraspTut3 calc_1)
+
+add_subdirectory(FolderStructTut/EgraspTut/Part3/mylib)
+
+
+
+
+

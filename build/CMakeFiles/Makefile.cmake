@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
+  "../FolderStructTut/EgraspTut/Part3/mylib/CMakeLists.txt"
   "CMakeFiles/3.22.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
@@ -42,6 +43,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "FolderStructTut/EgraspTut/Part3/mylib/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -131,4 +133,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/GDBTut2.dir/DependInfo.cmake"
   "CMakeFiles/GDBTut3.dir/DependInfo.cmake"
   "CMakeFiles/GDBTut4.dir/DependInfo.cmake"
+  "CMakeFiles/EgraspTut1.dir/DependInfo.cmake"
+  "CMakeFiles/calc.dir/DependInfo.cmake"
+  "CMakeFiles/EgraspTut2.dir/DependInfo.cmake"
+  "CMakeFiles/EgraspTut3.dir/DependInfo.cmake"
+  "FolderStructTut/EgraspTut/Part3/mylib/CMakeFiles/calc_1.dir/DependInfo.cmake"
   )

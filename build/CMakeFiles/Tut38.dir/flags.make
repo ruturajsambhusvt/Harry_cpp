@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++-8
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib
 
 CXX_FLAGS = -g -std=gnu++17
 
