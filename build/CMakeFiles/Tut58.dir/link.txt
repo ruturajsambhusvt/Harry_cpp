@@ -1,1 +1,0 @@
-/usr/bin/g++-8 -g CMakeFiles/Tut58.dir/HarryYoutubeTut/Tut58.cpp.o -o HarryYoutubeTut/Tut58 

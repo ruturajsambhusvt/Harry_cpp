@@ -1,6 +1,0 @@
-warning: Currently logging to myfile.txt.  Turn the logging off and on to make the new setting effective.
-logging debugredirect:  off: Debug output will go to both the screen and the log file.
-logging enabled:  on: Logging is enabled.
-logging file:  The current logfile is "myfile.txt".
-logging overwrite:  on: Logging overwrites the log file.
-logging redirect:  off: Output will go to both the screen and the log file.

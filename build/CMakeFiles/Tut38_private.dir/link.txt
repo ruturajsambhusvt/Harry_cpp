@@ -1,1 +1,0 @@
-/usr/bin/g++-8 -g CMakeFiles/Tut38_private.dir/HarryYoutubeTut/Tut38_private.cpp.o -o HarryYoutubeTut/Tut38_private 

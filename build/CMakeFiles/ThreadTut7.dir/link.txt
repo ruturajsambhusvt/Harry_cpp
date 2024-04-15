@@ -1,1 +1,0 @@
-/usr/bin/g++-8 -g CMakeFiles/ThreadTut7.dir/ThreadTut/ThreadTut7.cpp.o -o ThreadTut/ThreadTut7 

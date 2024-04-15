@@ -1,1 +1,0 @@
-/usr/bin/g++-8 -g CMakeFiles/FunctorsTut1.dir/FunctorsTut/FunctorsTut1.cpp.o -o FunctorsTut/FunctorsTut1 

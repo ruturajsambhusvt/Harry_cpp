@@ -1,1 +1,0 @@
-/usr/bin/g++-8 -g CMakeFiles/GDBTut4.dir/GDBTut/GDBTut4.cpp.o -o GDBTut/GDBTut4 
