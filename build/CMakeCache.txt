@@ -144,7 +144,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=EgraspTut3
+CMAKE_PROJECT_NAME:STATIC=Ep5Tut
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -276,6 +276,15 @@ EigenTut3_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 EigenTut3_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
+
+//Value Computed by CMake
+Ep5Tut_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build
+
+//Value Computed by CMake
+Ep5Tut_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Ep5Tut_SOURCE_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp
 
 //Value Computed by CMake
 FunctorsTut1_BINARY_DIR:STATIC=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build

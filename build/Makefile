@@ -1274,6 +1274,19 @@ EgraspTut3/fast:
 .PHONY : EgraspTut3/fast
 
 #=============================================================================
+# Target rules for targets named Ep5Tut
+
+# Build rule for target.
+Ep5Tut: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Ep5Tut
+.PHONY : Ep5Tut
+
+# fast build rule for target.
+Ep5Tut/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/build
+.PHONY : Ep5Tut/fast
+
+#=============================================================================
 # Target rules for targets named calc_1
 
 # Build rule for target.
@@ -1477,6 +1490,78 @@ FolderStructTut/EgraspTut/Part3/main.s: FolderStructTut/EgraspTut/Part3/main.cpp
 FolderStructTut/EgraspTut/Part3/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EgraspTut3.dir/build.make CMakeFiles/EgraspTut3.dir/FolderStructTut/EgraspTut/Part3/main.cpp.s
 .PHONY : FolderStructTut/EgraspTut/Part3/main.cpp.s
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.o: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.o
+
+# target to build an object file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.o
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.i: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.i
+
+# target to preprocess a source file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.i
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.s: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.s
+
+# target to generate assembly for a file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.s
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.o: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.o
+
+# target to build an object file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.o
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.i: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.i
+
+# target to preprocess a source file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.i
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.s: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.s
+
+# target to generate assembly for a file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.s
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.o: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.o
+
+# target to build an object file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.o
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.o
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.i: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.i
+
+# target to preprocess a source file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.i
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.i
+
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.s: FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.s
+
+# target to generate assembly for a file
+FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.s
+.PHONY : FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.s
 
 FunctorsTut/FunctorsTut1.o: FunctorsTut/FunctorsTut1.cpp.o
 .PHONY : FunctorsTut/FunctorsTut1.o
@@ -3461,6 +3546,7 @@ help:
 	@echo "... EigenTut1"
 	@echo "... EigenTut2"
 	@echo "... EigenTut3"
+	@echo "... Ep5Tut"
 	@echo "... FunctorsTut1"
 	@echo "... FunctorsTut2"
 	@echo "... GDBTut1"
@@ -3568,6 +3654,15 @@ help:
 	@echo "... FolderStructTut/EgraspTut/Part3/main.o"
 	@echo "... FolderStructTut/EgraspTut/Part3/main.i"
 	@echo "... FolderStructTut/EgraspTut/Part3/main.s"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.o"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.i"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.s"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.o"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.i"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.s"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.o"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.i"
+	@echo "... FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.s"
 	@echo "... FunctorsTut/FunctorsTut1.o"
 	@echo "... FunctorsTut/FunctorsTut1.i"
 	@echo "... FunctorsTut/FunctorsTut1.s"

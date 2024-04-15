@@ -152,6 +152,7 @@ all: CMakeFiles/EgraspTut1.dir/all
 all: CMakeFiles/calc.dir/all
 all: CMakeFiles/EgraspTut2.dir/all
 all: CMakeFiles/EgraspTut3.dir/all
+all: CMakeFiles/Ep5Tut.dir/all
 all: FolderStructTut/EgraspTut/Part3/mylib/all
 .PHONY : all
 
@@ -249,6 +250,7 @@ clean: CMakeFiles/EgraspTut1.dir/clean
 clean: CMakeFiles/calc.dir/clean
 clean: CMakeFiles/EgraspTut2.dir/clean
 clean: CMakeFiles/EgraspTut3.dir/clean
+clean: CMakeFiles/Ep5Tut.dir/clean
 clean: FolderStructTut/EgraspTut/Part3/mylib/clean
 .PHONY : clean
 
@@ -274,7 +276,7 @@ FolderStructTut/EgraspTut/Part3/mylib/clean: FolderStructTut/EgraspTut/Part3/myl
 CMakeFiles/Tut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut1.dir/build.make CMakeFiles/Tut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut1.dir/build.make CMakeFiles/Tut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=35 "Built target Tut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=37 "Built target Tut1"
 .PHONY : CMakeFiles/Tut1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -326,12 +328,12 @@ CMakeFiles/Tut7.dir/clean:
 CMakeFiles/Tut12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut12.dir/build.make CMakeFiles/Tut12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut12.dir/build.make CMakeFiles/Tut12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=36,37 "Built target Tut12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=38 "Built target Tut12"
 .PHONY : CMakeFiles/Tut12.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut12.dir/rule
@@ -352,7 +354,7 @@ CMakeFiles/Tut12.dir/clean:
 CMakeFiles/Tut13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut13.dir/build.make CMakeFiles/Tut13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut13.dir/build.make CMakeFiles/Tut13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=38 "Built target Tut13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=39 "Built target Tut13"
 .PHONY : CMakeFiles/Tut13.dir/all
 
 # Build rule for subdir invocation for target.
@@ -378,7 +380,7 @@ CMakeFiles/Tut13.dir/clean:
 CMakeFiles/Tut14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut14.dir/build.make CMakeFiles/Tut14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut14.dir/build.make CMakeFiles/Tut14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=39 "Built target Tut14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=40 "Built target Tut14"
 .PHONY : CMakeFiles/Tut14.dir/all
 
 # Build rule for subdir invocation for target.
@@ -404,7 +406,7 @@ CMakeFiles/Tut14.dir/clean:
 CMakeFiles/Tut15.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut15.dir/build.make CMakeFiles/Tut15.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut15.dir/build.make CMakeFiles/Tut15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=40 "Built target Tut15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=41 "Built target Tut15"
 .PHONY : CMakeFiles/Tut15.dir/all
 
 # Build rule for subdir invocation for target.
@@ -430,7 +432,7 @@ CMakeFiles/Tut15.dir/clean:
 CMakeFiles/Tut17.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut17.dir/build.make CMakeFiles/Tut17.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut17.dir/build.make CMakeFiles/Tut17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=41 "Built target Tut17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=42 "Built target Tut17"
 .PHONY : CMakeFiles/Tut17.dir/all
 
 # Build rule for subdir invocation for target.
@@ -456,7 +458,7 @@ CMakeFiles/Tut17.dir/clean:
 CMakeFiles/Tut19.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut19.dir/build.make CMakeFiles/Tut19.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut19.dir/build.make CMakeFiles/Tut19.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=42 "Built target Tut19"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=43 "Built target Tut19"
 .PHONY : CMakeFiles/Tut19.dir/all
 
 # Build rule for subdir invocation for target.
@@ -482,7 +484,7 @@ CMakeFiles/Tut19.dir/clean:
 CMakeFiles/Tut21.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut21.dir/build.make CMakeFiles/Tut21.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut21.dir/build.make CMakeFiles/Tut21.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=43 "Built target Tut21"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=44 "Built target Tut21"
 .PHONY : CMakeFiles/Tut21.dir/all
 
 # Build rule for subdir invocation for target.
@@ -508,7 +510,7 @@ CMakeFiles/Tut21.dir/clean:
 CMakeFiles/Tut22.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut22.dir/build.make CMakeFiles/Tut22.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut22.dir/build.make CMakeFiles/Tut22.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=44 "Built target Tut22"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=45 "Built target Tut22"
 .PHONY : CMakeFiles/Tut22.dir/all
 
 # Build rule for subdir invocation for target.
@@ -534,12 +536,12 @@ CMakeFiles/Tut22.dir/clean:
 CMakeFiles/Tut23.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut23.dir/build.make CMakeFiles/Tut23.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut23.dir/build.make CMakeFiles/Tut23.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=45 "Built target Tut23"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=46,47 "Built target Tut23"
 .PHONY : CMakeFiles/Tut23.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut23.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut23.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut23.dir/rule
@@ -560,7 +562,7 @@ CMakeFiles/Tut23.dir/clean:
 CMakeFiles/Tut24.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut24.dir/build.make CMakeFiles/Tut24.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut24.dir/build.make CMakeFiles/Tut24.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=46 "Built target Tut24"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=48 "Built target Tut24"
 .PHONY : CMakeFiles/Tut24.dir/all
 
 # Build rule for subdir invocation for target.
@@ -586,12 +588,12 @@ CMakeFiles/Tut24.dir/clean:
 CMakeFiles/Tut25.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut25.dir/build.make CMakeFiles/Tut25.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut25.dir/build.make CMakeFiles/Tut25.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=47,48 "Built target Tut25"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=49 "Built target Tut25"
 .PHONY : CMakeFiles/Tut25.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut25.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut25.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut25.dir/rule
@@ -612,7 +614,7 @@ CMakeFiles/Tut25.dir/clean:
 CMakeFiles/Tut25b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut25b.dir/build.make CMakeFiles/Tut25b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut25b.dir/build.make CMakeFiles/Tut25b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=49 "Built target Tut25b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=50 "Built target Tut25b"
 .PHONY : CMakeFiles/Tut25b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -638,7 +640,7 @@ CMakeFiles/Tut25b.dir/clean:
 CMakeFiles/Tut26.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut26.dir/build.make CMakeFiles/Tut26.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut26.dir/build.make CMakeFiles/Tut26.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=50 "Built target Tut26"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=51 "Built target Tut26"
 .PHONY : CMakeFiles/Tut26.dir/all
 
 # Build rule for subdir invocation for target.
@@ -664,7 +666,7 @@ CMakeFiles/Tut26.dir/clean:
 CMakeFiles/Tut27.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut27.dir/build.make CMakeFiles/Tut27.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut27.dir/build.make CMakeFiles/Tut27.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=51 "Built target Tut27"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=52 "Built target Tut27"
 .PHONY : CMakeFiles/Tut27.dir/all
 
 # Build rule for subdir invocation for target.
@@ -690,7 +692,7 @@ CMakeFiles/Tut27.dir/clean:
 CMakeFiles/Tut28.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut28.dir/build.make CMakeFiles/Tut28.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut28.dir/build.make CMakeFiles/Tut28.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=52 "Built target Tut28"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=53 "Built target Tut28"
 .PHONY : CMakeFiles/Tut28.dir/all
 
 # Build rule for subdir invocation for target.
@@ -716,7 +718,7 @@ CMakeFiles/Tut28.dir/clean:
 CMakeFiles/Tut28b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut28b.dir/build.make CMakeFiles/Tut28b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut28b.dir/build.make CMakeFiles/Tut28b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=53 "Built target Tut28b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=54 "Built target Tut28b"
 .PHONY : CMakeFiles/Tut28b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -742,7 +744,7 @@ CMakeFiles/Tut28b.dir/clean:
 CMakeFiles/Tut29.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut29.dir/build.make CMakeFiles/Tut29.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut29.dir/build.make CMakeFiles/Tut29.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=54 "Built target Tut29"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=55 "Built target Tut29"
 .PHONY : CMakeFiles/Tut29.dir/all
 
 # Build rule for subdir invocation for target.
@@ -768,7 +770,7 @@ CMakeFiles/Tut29.dir/clean:
 CMakeFiles/Tut30.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut30.dir/build.make CMakeFiles/Tut30.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut30.dir/build.make CMakeFiles/Tut30.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=55 "Built target Tut30"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=56 "Built target Tut30"
 .PHONY : CMakeFiles/Tut30.dir/all
 
 # Build rule for subdir invocation for target.
@@ -794,7 +796,7 @@ CMakeFiles/Tut30.dir/clean:
 CMakeFiles/Tut30b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut30b.dir/build.make CMakeFiles/Tut30b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut30b.dir/build.make CMakeFiles/Tut30b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=56 "Built target Tut30b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=57 "Built target Tut30b"
 .PHONY : CMakeFiles/Tut30b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -820,12 +822,12 @@ CMakeFiles/Tut30b.dir/clean:
 CMakeFiles/Tut31.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut31.dir/build.make CMakeFiles/Tut31.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut31.dir/build.make CMakeFiles/Tut31.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=57,58 "Built target Tut31"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=58 "Built target Tut31"
 .PHONY : CMakeFiles/Tut31.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut31.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut31.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut31.dir/rule
@@ -846,12 +848,12 @@ CMakeFiles/Tut31.dir/clean:
 CMakeFiles/Tut32.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut32.dir/build.make CMakeFiles/Tut32.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut32.dir/build.make CMakeFiles/Tut32.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=59 "Built target Tut32"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=59,60 "Built target Tut32"
 .PHONY : CMakeFiles/Tut32.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut32.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut32.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut32.dir/rule
@@ -872,7 +874,7 @@ CMakeFiles/Tut32.dir/clean:
 CMakeFiles/Tut33.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut33.dir/build.make CMakeFiles/Tut33.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut33.dir/build.make CMakeFiles/Tut33.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=60 "Built target Tut33"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=61 "Built target Tut33"
 .PHONY : CMakeFiles/Tut33.dir/all
 
 # Build rule for subdir invocation for target.
@@ -898,7 +900,7 @@ CMakeFiles/Tut33.dir/clean:
 CMakeFiles/Tut34.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut34.dir/build.make CMakeFiles/Tut34.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut34.dir/build.make CMakeFiles/Tut34.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=61 "Built target Tut34"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=62 "Built target Tut34"
 .PHONY : CMakeFiles/Tut34.dir/all
 
 # Build rule for subdir invocation for target.
@@ -924,7 +926,7 @@ CMakeFiles/Tut34.dir/clean:
 CMakeFiles/Tut35.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut35.dir/build.make CMakeFiles/Tut35.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut35.dir/build.make CMakeFiles/Tut35.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=62 "Built target Tut35"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=63 "Built target Tut35"
 .PHONY : CMakeFiles/Tut35.dir/all
 
 # Build rule for subdir invocation for target.
@@ -950,7 +952,7 @@ CMakeFiles/Tut35.dir/clean:
 CMakeFiles/Tut37.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut37.dir/build.make CMakeFiles/Tut37.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut37.dir/build.make CMakeFiles/Tut37.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=63 "Built target Tut37"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=64 "Built target Tut37"
 .PHONY : CMakeFiles/Tut37.dir/all
 
 # Build rule for subdir invocation for target.
@@ -976,7 +978,7 @@ CMakeFiles/Tut37.dir/clean:
 CMakeFiles/Tut38.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut38.dir/build.make CMakeFiles/Tut38.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut38.dir/build.make CMakeFiles/Tut38.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=64 "Built target Tut38"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=65 "Built target Tut38"
 .PHONY : CMakeFiles/Tut38.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1002,7 +1004,7 @@ CMakeFiles/Tut38.dir/clean:
 CMakeFiles/Tut38_private.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut38_private.dir/build.make CMakeFiles/Tut38_private.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut38_private.dir/build.make CMakeFiles/Tut38_private.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=65 "Built target Tut38_private"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=66 "Built target Tut38_private"
 .PHONY : CMakeFiles/Tut38_private.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1028,7 +1030,7 @@ CMakeFiles/Tut38_private.dir/clean:
 CMakeFiles/Tut39.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut39.dir/build.make CMakeFiles/Tut39.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut39.dir/build.make CMakeFiles/Tut39.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=66 "Built target Tut39"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=67 "Built target Tut39"
 .PHONY : CMakeFiles/Tut39.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1054,7 +1056,7 @@ CMakeFiles/Tut39.dir/clean:
 CMakeFiles/Tut40.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut40.dir/build.make CMakeFiles/Tut40.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut40.dir/build.make CMakeFiles/Tut40.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=67 "Built target Tut40"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=68 "Built target Tut40"
 .PHONY : CMakeFiles/Tut40.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1080,12 +1082,12 @@ CMakeFiles/Tut40.dir/clean:
 CMakeFiles/Tut41.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut41.dir/build.make CMakeFiles/Tut41.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut41.dir/build.make CMakeFiles/Tut41.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=68,69 "Built target Tut41"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=69 "Built target Tut41"
 .PHONY : CMakeFiles/Tut41.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut41.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut41.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut41.dir/rule
@@ -1184,12 +1186,12 @@ CMakeFiles/Tut45.dir/clean:
 CMakeFiles/Tut48.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut48.dir/build.make CMakeFiles/Tut48.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut48.dir/build.make CMakeFiles/Tut48.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=73 "Built target Tut48"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=73,74 "Built target Tut48"
 .PHONY : CMakeFiles/Tut48.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut48.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut48.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut48.dir/rule
@@ -1210,7 +1212,7 @@ CMakeFiles/Tut48.dir/clean:
 CMakeFiles/Tut49.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut49.dir/build.make CMakeFiles/Tut49.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut49.dir/build.make CMakeFiles/Tut49.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=74 "Built target Tut49"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=75 "Built target Tut49"
 .PHONY : CMakeFiles/Tut49.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1236,7 +1238,7 @@ CMakeFiles/Tut49.dir/clean:
 CMakeFiles/Tut50.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut50.dir/build.make CMakeFiles/Tut50.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut50.dir/build.make CMakeFiles/Tut50.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=75 "Built target Tut50"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=76 "Built target Tut50"
 .PHONY : CMakeFiles/Tut50.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1262,7 +1264,7 @@ CMakeFiles/Tut50.dir/clean:
 CMakeFiles/Tut51.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut51.dir/build.make CMakeFiles/Tut51.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut51.dir/build.make CMakeFiles/Tut51.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=76 "Built target Tut51"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=77 "Built target Tut51"
 .PHONY : CMakeFiles/Tut51.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1288,7 +1290,7 @@ CMakeFiles/Tut51.dir/clean:
 CMakeFiles/Tut52.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut52.dir/build.make CMakeFiles/Tut52.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut52.dir/build.make CMakeFiles/Tut52.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=77 "Built target Tut52"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=78 "Built target Tut52"
 .PHONY : CMakeFiles/Tut52.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1314,12 +1316,12 @@ CMakeFiles/Tut52.dir/clean:
 CMakeFiles/Tut53.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut53.dir/build.make CMakeFiles/Tut53.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut53.dir/build.make CMakeFiles/Tut53.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=78,79 "Built target Tut53"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=79 "Built target Tut53"
 .PHONY : CMakeFiles/Tut53.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut53.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut53.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut53.dir/rule
@@ -1496,12 +1498,12 @@ CMakeFiles/Tut60.dir/clean:
 CMakeFiles/Tut61.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut61.dir/build.make CMakeFiles/Tut61.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut61.dir/build.make CMakeFiles/Tut61.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=86 "Built target Tut61"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=86,87 "Built target Tut61"
 .PHONY : CMakeFiles/Tut61.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut61.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut61.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut61.dir/rule
@@ -1522,7 +1524,7 @@ CMakeFiles/Tut61.dir/clean:
 CMakeFiles/Tut62.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut62.dir/build.make CMakeFiles/Tut62.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut62.dir/build.make CMakeFiles/Tut62.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=87 "Built target Tut62"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=88 "Built target Tut62"
 .PHONY : CMakeFiles/Tut62.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1548,7 +1550,7 @@ CMakeFiles/Tut62.dir/clean:
 CMakeFiles/Tut64.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut64.dir/build.make CMakeFiles/Tut64.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut64.dir/build.make CMakeFiles/Tut64.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=88 "Built target Tut64"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=89 "Built target Tut64"
 .PHONY : CMakeFiles/Tut64.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1574,12 +1576,12 @@ CMakeFiles/Tut64.dir/clean:
 CMakeFiles/Tut65.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut65.dir/build.make CMakeFiles/Tut65.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Tut65.dir/build.make CMakeFiles/Tut65.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=89,90 "Built target Tut65"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=90 "Built target Tut65"
 .PHONY : CMakeFiles/Tut65.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tut65.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Tut65.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Tut65.dir/rule
@@ -1730,12 +1732,12 @@ CMakeFiles/Tut72.dir/clean:
 CMakeFiles/EigenTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EigenTut1.dir/build.make CMakeFiles/EigenTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EigenTut1.dir/build.make CMakeFiles/EigenTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=5,6 "Built target EigenTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=5 "Built target EigenTut1"
 .PHONY : CMakeFiles/EigenTut1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/EigenTut1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/EigenTut1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/EigenTut1.dir/rule
@@ -1756,12 +1758,12 @@ CMakeFiles/EigenTut1.dir/clean:
 CMakeFiles/EigenTut2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EigenTut2.dir/build.make CMakeFiles/EigenTut2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EigenTut2.dir/build.make CMakeFiles/EigenTut2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=7 "Built target EigenTut2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=6,7 "Built target EigenTut2"
 .PHONY : CMakeFiles/EigenTut2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/EigenTut2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/EigenTut2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/EigenTut2.dir/rule
@@ -1808,7 +1810,7 @@ CMakeFiles/EigenTut3.dir/clean:
 CMakeFiles/ThreadTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut1.dir/build.make CMakeFiles/ThreadTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut1.dir/build.make CMakeFiles/ThreadTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=28 "Built target ThreadTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=29 "Built target ThreadTut1"
 .PHONY : CMakeFiles/ThreadTut1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1834,7 +1836,7 @@ CMakeFiles/ThreadTut1.dir/clean:
 CMakeFiles/ThreadTut2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut2.dir/build.make CMakeFiles/ThreadTut2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=29 "Built target ThreadTut2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=30 "Built target ThreadTut2"
 .PHONY : CMakeFiles/ThreadTut2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1860,7 +1862,7 @@ CMakeFiles/ThreadTut2.dir/clean:
 CMakeFiles/ThreadTut3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut3.dir/build.make CMakeFiles/ThreadTut3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=30 "Built target ThreadTut3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=31 "Built target ThreadTut3"
 .PHONY : CMakeFiles/ThreadTut3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1886,7 +1888,7 @@ CMakeFiles/ThreadTut3.dir/clean:
 CMakeFiles/ThreadTut4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut4.dir/build.make CMakeFiles/ThreadTut4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=31 "Built target ThreadTut4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=32 "Built target ThreadTut4"
 .PHONY : CMakeFiles/ThreadTut4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1912,12 +1914,12 @@ CMakeFiles/ThreadTut4.dir/clean:
 CMakeFiles/ThreadTut5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut5.dir/build.make CMakeFiles/ThreadTut5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=32 "Built target ThreadTut5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=33,34 "Built target ThreadTut5"
 .PHONY : CMakeFiles/ThreadTut5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ThreadTut5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ThreadTut5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/ThreadTut5.dir/rule
@@ -1938,7 +1940,7 @@ CMakeFiles/ThreadTut5.dir/clean:
 CMakeFiles/ThreadTut6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut6.dir/build.make CMakeFiles/ThreadTut6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=33 "Built target ThreadTut6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=35 "Built target ThreadTut6"
 .PHONY : CMakeFiles/ThreadTut6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1964,7 +1966,7 @@ CMakeFiles/ThreadTut6.dir/clean:
 CMakeFiles/ThreadTut7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThreadTut7.dir/build.make CMakeFiles/ThreadTut7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=34 "Built target ThreadTut7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=36 "Built target ThreadTut7"
 .PHONY : CMakeFiles/ThreadTut7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1990,7 +1992,7 @@ CMakeFiles/ThreadTut7.dir/clean:
 CMakeFiles/FunctorsTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut1.dir/build.make CMakeFiles/FunctorsTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=9 "Built target FunctorsTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=11 "Built target FunctorsTut1"
 .PHONY : CMakeFiles/FunctorsTut1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2016,7 +2018,7 @@ CMakeFiles/FunctorsTut1.dir/clean:
 CMakeFiles/FunctorsTut2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FunctorsTut2.dir/build.make CMakeFiles/FunctorsTut2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=10 "Built target FunctorsTut2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=12 "Built target FunctorsTut2"
 .PHONY : CMakeFiles/FunctorsTut2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2042,12 +2044,12 @@ CMakeFiles/FunctorsTut2.dir/clean:
 CMakeFiles/LambdaFunTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut1.dir/build.make CMakeFiles/LambdaFunTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=15,16 "Built target LambdaFunTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=17 "Built target LambdaFunTut1"
 .PHONY : CMakeFiles/LambdaFunTut1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LambdaFunTut1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/LambdaFunTut1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/LambdaFunTut1.dir/rule
@@ -2068,7 +2070,7 @@ CMakeFiles/LambdaFunTut1.dir/clean:
 CMakeFiles/LambdaFunTut2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LambdaFunTut2.dir/build.make CMakeFiles/LambdaFunTut2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=17 "Built target LambdaFunTut2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=18 "Built target LambdaFunTut2"
 .PHONY : CMakeFiles/LambdaFunTut2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2094,7 +2096,7 @@ CMakeFiles/LambdaFunTut2.dir/clean:
 CMakeFiles/Socket_Server1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server1.dir/build.make CMakeFiles/Socket_Server1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=25 "Built target Socket_Server1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=27 "Built target Socket_Server1"
 .PHONY : CMakeFiles/Socket_Server1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2120,7 +2122,7 @@ CMakeFiles/Socket_Server1.dir/clean:
 CMakeFiles/Socket_Client1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Client1.dir/build.make CMakeFiles/Socket_Client1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=24 "Built target Socket_Client1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=26 "Built target Socket_Client1"
 .PHONY : CMakeFiles/Socket_Client1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2146,12 +2148,12 @@ CMakeFiles/Socket_Client1.dir/clean:
 CMakeFiles/Socket_Server2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Socket_Server2.dir/build.make CMakeFiles/Socket_Server2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=26,27 "Built target Socket_Server2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=28 "Built target Socket_Server2"
 .PHONY : CMakeFiles/Socket_Server2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Socket_Server2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Socket_Server2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/Socket_Server2.dir/rule
@@ -2172,12 +2174,12 @@ CMakeFiles/Socket_Server2.dir/clean:
 CMakeFiles/NamespaceTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NamespaceTut1.dir/build.make CMakeFiles/NamespaceTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=18 "Built target NamespaceTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=19,20 "Built target NamespaceTut1"
 .PHONY : CMakeFiles/NamespaceTut1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NamespaceTut1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/NamespaceTut1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/NamespaceTut1.dir/rule
@@ -2250,7 +2252,7 @@ CMakeFiles/iterator_tut1.dir/clean:
 CMakeFiles/SmartPointers1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers1.dir/build.make CMakeFiles/SmartPointers1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=19 "Built target SmartPointers1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=21 "Built target SmartPointers1"
 .PHONY : CMakeFiles/SmartPointers1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2276,7 +2278,7 @@ CMakeFiles/SmartPointers1.dir/clean:
 CMakeFiles/SmartPointers2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers2.dir/build.make CMakeFiles/SmartPointers2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=20 "Built target SmartPointers2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=22 "Built target SmartPointers2"
 .PHONY : CMakeFiles/SmartPointers2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2302,7 +2304,7 @@ CMakeFiles/SmartPointers2.dir/clean:
 CMakeFiles/SmartPointers3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers3.dir/build.make CMakeFiles/SmartPointers3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=21 "Built target SmartPointers3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=23 "Built target SmartPointers3"
 .PHONY : CMakeFiles/SmartPointers3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2328,7 +2330,7 @@ CMakeFiles/SmartPointers3.dir/clean:
 CMakeFiles/SmartPointers4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers4.dir/build.make CMakeFiles/SmartPointers4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=22 "Built target SmartPointers4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=24 "Built target SmartPointers4"
 .PHONY : CMakeFiles/SmartPointers4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2354,7 +2356,7 @@ CMakeFiles/SmartPointers4.dir/clean:
 CMakeFiles/SmartPointers5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SmartPointers5.dir/build.make CMakeFiles/SmartPointers5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=23 "Built target SmartPointers5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=25 "Built target SmartPointers5"
 .PHONY : CMakeFiles/SmartPointers5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2380,7 +2382,7 @@ CMakeFiles/SmartPointers5.dir/clean:
 CMakeFiles/GDBTut1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut1.dir/build.make CMakeFiles/GDBTut1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut1.dir/build.make CMakeFiles/GDBTut1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=11 "Built target GDBTut1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=13 "Built target GDBTut1"
 .PHONY : CMakeFiles/GDBTut1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2406,7 +2408,7 @@ CMakeFiles/GDBTut1.dir/clean:
 CMakeFiles/GDBTut2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut2.dir/build.make CMakeFiles/GDBTut2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut2.dir/build.make CMakeFiles/GDBTut2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=12 "Built target GDBTut2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=14 "Built target GDBTut2"
 .PHONY : CMakeFiles/GDBTut2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2432,7 +2434,7 @@ CMakeFiles/GDBTut2.dir/clean:
 CMakeFiles/GDBTut3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut3.dir/build.make CMakeFiles/GDBTut3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut3.dir/build.make CMakeFiles/GDBTut3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=13 "Built target GDBTut3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=15 "Built target GDBTut3"
 .PHONY : CMakeFiles/GDBTut3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2458,7 +2460,7 @@ CMakeFiles/GDBTut3.dir/clean:
 CMakeFiles/GDBTut4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut4.dir/build.make CMakeFiles/GDBTut4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GDBTut4.dir/build.make CMakeFiles/GDBTut4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=14 "Built target GDBTut4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=16 "Built target GDBTut4"
 .PHONY : CMakeFiles/GDBTut4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2580,6 +2582,32 @@ EgraspTut3: CMakeFiles/EgraspTut3.dir/rule
 CMakeFiles/EgraspTut3.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/EgraspTut3.dir/build.make CMakeFiles/EgraspTut3.dir/clean
 .PHONY : CMakeFiles/EgraspTut3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Ep5Tut.dir
+
+# All Build rule for target.
+CMakeFiles/Ep5Tut.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles --progress-num=9,10 "Built target Ep5Tut"
+.PHONY : CMakeFiles/Ep5Tut.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Ep5Tut.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Ep5Tut.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/CMakeFiles 0
+.PHONY : CMakeFiles/Ep5Tut.dir/rule
+
+# Convenience name for target.
+Ep5Tut: CMakeFiles/Ep5Tut.dir/rule
+.PHONY : Ep5Tut
+
+# clean rule for target.
+CMakeFiles/Ep5Tut.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ep5Tut.dir/build.make CMakeFiles/Ep5Tut.dir/clean
+.PHONY : CMakeFiles/Ep5Tut.dir/clean
 
 #=============================================================================
 # Target rules for target FolderStructTut/EgraspTut/Part3/mylib/CMakeFiles/calc_1.dir

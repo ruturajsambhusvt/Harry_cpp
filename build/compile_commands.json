@@ -450,6 +450,21 @@
   "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/main.cpp"
 },
 {
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/include -g -std=gnu++2a -o CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/include -g -std=gnu++2a -o CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build",
+  "command": "/usr/bin/g++-8  -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/include -g -std=gnu++2a -o CMakeFiles/Ep5Tut.dir/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp",
+  "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp"
+},
+{
   "directory": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/build/FolderStructTut/EgraspTut/Part3/mylib",
   "command": "/usr/bin/g++-8 -Dcalc_1_EXPORTS -I/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib -g -fPIC -std=gnu++17 -o CMakeFiles/calc_1.dir/calc.cpp.o -c /home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib/calc.cpp",
   "file": "/home/trec/WorkRaj/Coding_Tutorials/Harry_cpp/FolderStructTut/EgraspTut/Part3/mylib/calc.cpp"
