@@ -349,5 +349,16 @@ add_subdirectory(FolderStructTut/EgraspTut/Part3/mylib)
 
 
 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/FolderStructTut/LearnQtGuideTut/Ep5Tut)
+project(Ep5Tut)
 
+# GLOBING IS NOT RECOMMENDED
+#GLOBING
+# file(GLOB_RECURSE SOURCE_FILES FolderStructTut/LearnQtGuideTut/Ep5Tut/src/*.cpp)
+# add_executable(Ep5Tut ${SOURCE_FILES})  
+
+# Add the library with path to cpp file
+add_executable(Ep5Tut FolderStructTut/LearnQtGuideTut/Ep5Tut/src/main.cpp FolderStructTut/LearnQtGuideTut/Ep5Tut/src/dog.cpp FolderStructTut/LearnQtGuideTut/Ep5Tut/src/operations.cpp) 
+target_compile_features(Ep5Tut PRIVATE cxx_std_20)
+target_include_directories(Ep5Tut PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/FolderStructTut/LearnQtGuideTut/Ep5Tut/include)
 
